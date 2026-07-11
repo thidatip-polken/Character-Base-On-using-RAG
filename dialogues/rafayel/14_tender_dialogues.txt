@@ -1,0 +1,578 @@
+Rafayel Dialogue:
+Rafayel: You've arrived sooner than I expected. Were you that worried about me?
+
+Next Dialogue:
+Main Character: Why didn't you close the door when you left? I looked high and low at your place... I thought...
+Rafayel: You thought a Wanderer broke in and kidnapped me?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You've arrived sooner than I expected. Were you that worried about me?
+Main Character: Why didn't you close the door when you left? I looked high and low at your place... I thought...
+
+Rafayel Dialogue:
+Rafayel: You thought a Wanderer broke in and kidnapped me?
+
+Next Dialogue:
+Main Character: I was worried you would cause a ruckus on the shores and irritate the neighbors...
+Main Character: What have you been taking pictures of?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I was worried you would cause a ruckus on the shores and irritate the neighbors...
+Main Character: What have you been taking pictures of?
+
+Rafayel Dialogue:
+Rafayel: I saw some flickering lights in the ocean from the window of my room. I thought it was some kind of will-o'-the-wisp.
+
+Next Dialogue:
+Rafayel: So I took pictures and zoomed in. They look like balls of light floating on top of the sea. How strange.
+Main Character: Balls of light... Oh, now I remember! Those are sea lanterns! It's the annual Sea Lantern Night at Whitesand Bay!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: What have you been taking pictures of?
+Rafayel: I saw some flickering lights in the ocean from the window of my room. I thought it was some kind of will-o'-the-wisp.
+
+Rafayel Dialogue:
+Rafayel: So I took pictures and zoomed in. They look like balls of light floating on top of the sea. How strange.
+
+Next Dialogue:
+Main Character: Balls of light... Oh, now I remember! Those are sea lanterns! It's the annual Sea Lantern Night at Whitesand Bay!
+Main Character: You've been so busy painting that you haven't been out for a couple of days now, huh? So absorbed in your art that you haven't even heard about the event.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Balls of light... Oh, now I remember! Those are sea lanterns! It's the annual Sea Lantern Night at Whitesand Bay!
+Main Character: You've been so busy painting that you haven't been out for a couple of days now, huh? So absorbed in your art that you haven't even heard about the event.
+
+Rafayel Dialogue:
+Rafayel: Oh... A false alarm then. I'm heading back.
+
+Next Dialogue:
+Main Character: Hold on, the place where people are placing lanterns into the ocean isn't very far from here. Let's check it out! It's quite festive there.
+Rafayel: Festive? More like noisy...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Oh... A false alarm then. I'm heading back.
+Main Character: Hold on, the place where people are placing lanterns into the ocean isn't very far from here. Let's check it out! It's quite festive there.
+
+Rafayel Dialogue:
+Rafayel: Festive? More like noisy...
+
+Next Dialogue:
+Main Character: You really don't want to go? Fine then...
+Rafayel: Not unless you can give me a reason for going.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Festive? More like noisy...
+Main Character: You really don't want to go? Fine then...
+
+Rafayel Dialogue:
+Rafayel: Not unless you can give me a reason for going.
+
+Next Dialogue:
+Main Character: You can think of it as taking a seaside stroll.
+Rafayel: The weather forecast says there will be heavy winds tonight. By the time we get there, everyone will have left and it'll be a wasted trip.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Not unless you can give me a reason for going.
+Main Character: You can think of it as taking a seaside stroll.
+
+Rafayel Dialogue:
+Rafayel: The weather forecast says there will be heavy winds tonight. By the time we get there, everyone will have left and it'll be a wasted trip.
+
+Next Dialogue:
+Main Character: ...When I was younger, I floated a lantern into the sea. I haven't done that in forever. I kinda want to do it again.
+Rafayel: That's a better reason to persuade me. Fine, you win.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: The weather forecast says there will be heavy winds tonight. By the time we get there, everyone will have left and it'll be a wasted trip.
+Main Character: ...When I was younger, I floated a lantern into the sea. I haven't done that in forever. I kinda want to do it again.
+
+Rafayel Dialogue:
+Rafayel: That's a better reason to persuade me. Fine, you win.
+
+Next Dialogue:
+Main Character: Rafayel, didn't you agree to go? Why are you heading back?
+Rafayel: I'm getting you a coat. It's cold by the water.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: That's a better reason to persuade me. Fine, you win.
+Main Character: Rafayel, didn't you agree to go? Why are you heading back?
+
+Rafayel Dialogue:
+Rafayel: I'm getting you a coat. It's cold by the water.
+
+Next Dialogue:
+Main Character: Did you get the moon in there?
+Rafayel: The setup's pretty good. A shadow devouring the light.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'm getting you a coat. It's cold by the water.
+Main Character: Did you get the moon in there?
+
+Rafayel Dialogue:
+Rafayel: The setup's pretty good. A shadow devouring the light.
+
+Next Dialogue:
+Main Character: There's not much light here. We should probably take pictures later.
+Main Character: Why are you taking photos of me? It's so dark. Don't waste your time...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: There's not much light here. We should probably take pictures later.
+Main Character: Why are you taking photos of me? It's so dark. Don't waste your time...
+
+Rafayel Dialogue:
+Rafayel: It's not a waste. I managed to capture the sparkles in your eyes, didn't I?
+
+Next Dialogue:
+Rafayel: And now that I already have you in my camera. The photo can turn out all black, I don't care.
+Rafayel: I sometimes stroll alone along this stretch at night.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Why are you taking photos of me? It's so dark. Don't waste your time...
+Rafayel: It's not a waste. I managed to capture the sparkles in your eyes, didn't I?
+
+Rafayel Dialogue:
+Rafayel: And now that I already have you in my camera. The photo can turn out all black, I don't care.
+
+Next Dialogue:
+Rafayel: I sometimes stroll alone along this stretch at night.
+Main Character: Near the quiet sea, far from the meaningless noises of the city, and without anyone to disturb you... I bet you enjoy this a lot.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's not a waste. I managed to capture the sparkles in your eyes, didn't I?
+Rafayel: And now that I already have you in my camera. The photo can turn out all black, I don't care.
+
+Rafayel Dialogue:
+Rafayel: I sometimes stroll alone along this stretch at night.
+
+Next Dialogue:
+Main Character: Near the quiet sea, far from the meaningless noises of the city, and without anyone to disturb you... I bet you enjoy this a lot.
+Rafayel: So you admit you're here to disturb me?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I sometimes stroll alone along this stretch at night.
+Main Character: Near the quiet sea, far from the meaningless noises of the city, and without anyone to disturb you... I bet you enjoy this a lot.
+
+Rafayel Dialogue:
+Rafayel: So you admit you're here to disturb me?
+
+Next Dialogue:
+Main Character: Have... I?
+Rafayel: Of course, you have. Now that I've gotten used to your intrusions... I no longer enjoy being alone as much as I used to.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: So you admit you're here to disturb me?
+Main Character: Have... I?
+
+Rafayel Dialogue:
+Rafayel: Of course, you have. Now that I've gotten used to your intrusions... I no longer enjoy being alone as much as I used to.
+
+Next Dialogue:
+Main Character: Why does it sound like you're complaining about something you actually enjoy?
+Main Character: Ow...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Why does it sound like you're complaining about something you actually enjoy?
+Main Character: Ow...
+
+Rafayel Dialogue:
+Rafayel: Your legs aren't working, but your hands seem to be working fine.
+
+Next Dialogue:
+Main Character: Hmph...
+Rafayel: You're the first person I've seen who can't keep their balance on level ground.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Your legs aren't working, but your hands seem to be working fine.
+Main Character: Hmph...
+
+Rafayel Dialogue:
+Rafayel: You're the first person I've seen who can't keep their balance on level ground.
+
+Next Dialogue:
+Main Character: I tripped over a rock!
+Rafayel: You tried to punch me only to trip over yourself. You're probably the first person ever to accomplish that.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You're the first person I've seen who can't keep their balance on level ground.
+Main Character: I tripped over a rock!
+
+Rafayel Dialogue:
+Rafayel: You tried to punch me only to trip over yourself. You're probably the first person ever to accomplish that.
+
+Next Dialogue:
+Main Character: I...
+Rafayel: I guess it's not safe for you to walk alone on the beach.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You tried to punch me only to trip over yourself. You're probably the first person ever to accomplish that.
+Main Character: I...
+
+Rafayel Dialogue:
+Rafayel: I guess it's not safe for you to walk alone on the beach.
+
+Next Dialogue:
+Main Character: Look, Rafayel! The sea lanterns look magnificent! Let's head over!
+Rafayel: Good thing I know what's going on. With all those torch lights and the feral screams of humans, I would've assumed they were trying to hunt me down...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I guess it's not safe for you to walk alone on the beach.
+Main Character: Look, Rafayel! The sea lanterns look magnificent! Let's head over!
+
+Rafayel Dialogue:
+Rafayel: Good thing I know what's going on. With all those torch lights and the feral screams of humans, I would've assumed they were trying to hunt me down...
+
+Next Dialogue:
+Rafayel: We came at the right time. Everyone's leaving just as we arrive.
+Main Character: It's been so many years, but the sight of the sea awash in the glow of lanterns is the same as how I remembered it. It's so romantic.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Look, Rafayel! The sea lanterns look magnificent! Let's head over!
+Rafayel: Good thing I know what's going on. With all those torch lights and the feral screams of humans, I would've assumed they were trying to hunt me down...
+
+Rafayel Dialogue:
+Rafayel: We came at the right time. Everyone's leaving just as we arrive.
+
+Next Dialogue:
+Main Character: It's been so many years, but the sight of the sea awash in the glow of lanterns is the same as how I remembered it. It's so romantic.
+Rafayel: And when the winds pick up and capsize the lanterns, that would be a scene out of a romantic tragedy.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: We came at the right time. Everyone's leaving just as we arrive.
+Main Character: It's been so many years, but the sight of the sea awash in the glow of lanterns is the same as how I remembered it. It's so romantic.
+
+Rafayel Dialogue:
+Rafayel: And when the winds pick up and capsize the lanterns, that would be a scene out of a romantic tragedy.
+
+Next Dialogue:
+Main Character: You and your big mouth. You just had to say it.
+Rafayel: I've been holding this for you. Put it on.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: And when the winds pick up and capsize the lanterns, that would be a scene out of a romantic tragedy.
+Main Character: You and your big mouth. You just had to say it.
+
+Rafayel Dialogue:
+Rafayel: I've been holding this for you. Put it on.
+
+Next Dialogue:
+Main Character: The wind's very strong. You wear it. I'm good.
+Rafayel: You may not need it, but I can't let sand get into my camera.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I've been holding this for you. Put it on.
+Main Character: The wind's very strong. You wear it. I'm good.
+
+Rafayel Dialogue:
+Rafayel: You may not need it, but I can't let sand get into my camera.
+
+Next Dialogue:
+Rafayel: Protect it for me. Besides, the coat's as big as a tent. There's more than enough room to fit two of you.
+Main Character: So why don't you...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: The wind's very strong. You wear it. I'm good.
+Rafayel: You may not need it, but I can't let sand get into my camera.
+
+Rafayel Dialogue:
+Rafayel: Protect it for me. Besides, the coat's as big as a tent. There's more than enough room to fit two of you.
+
+Next Dialogue:
+Main Character: So why don't you...
+Rafayel: Fit myself in there?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Protect it for me. Besides, the coat's as big as a tent. There's more than enough room to fit two of you.
+Main Character: So why don't you...
+
+Rafayel Dialogue:
+Rafayel: Fit myself in there?
+
+Next Dialogue:
+Main Character: Uh, no, there isn't enough room...
+Rafayel: Cover your nose too. Don't let the sand get in there.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Fit myself in there?
+Main Character: Uh, no, there isn't enough room...
+
+Rafayel Dialogue:
+Rafayel: Cover your nose too. Don't let the sand get in there.
+
+Next Dialogue:
+Main Character: You've bundled me too tightly. I can't even see what's in front of me...
+Main Character: Why are you looking at me like a—
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You've bundled me too tightly. I can't even see what's in front of me...
+Main Character: Why are you looking at me like a—
+
+Rafayel Dialogue:
+Rafayel: A mushroom that is about to emerge from the soil.
+
+Next Dialogue:
+Main Character: There you go, making fun of me again. What about you then?
+Rafayel: I'm a bushy-tailed squirrel guarding the mushroom, ready to block it from the wind, however strong.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: A mushroom that is about to emerge from the soil.
+Main Character: There you go, making fun of me again. What about you then?
+
+Rafayel Dialogue:
+Rafayel: I'm a bushy-tailed squirrel guarding the mushroom, ready to block it from the wind, however strong.
+
+Next Dialogue:
+Main Character: That sounds kind of sad. Thanks, though.
+Rafayel: Once the mushroom emerges, I'm swallowing it whole.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'm a bushy-tailed squirrel guarding the mushroom, ready to block it from the wind, however strong.
+Main Character: That sounds kind of sad. Thanks, though.
+
+Rafayel Dialogue:
+Rafayel: Once the mushroom emerges, I'm swallowing it whole.
+
+Next Dialogue:
+Main Character: The sea lanterns are gone... What a shame. It's like they had never existed in the first place.
+Rafayel: Even if it weren't for the waves, flames lit by humans won't last forever.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Once the mushroom emerges, I'm swallowing it whole.
+Main Character: The sea lanterns are gone... What a shame. It's like they had never existed in the first place.
+
+Rafayel Dialogue:
+Rafayel: Even if it weren't for the waves, flames lit by humans won't last forever.
+
+Next Dialogue:
+Rafayel: Now I remember, I've seen the sea lanterns before.
+Main Character: You've been here?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: The sea lanterns are gone... What a shame. It's like they had never existed in the first place.
+Rafayel: Even if it weren't for the waves, flames lit by humans won't last forever.
+
+Rafayel Dialogue:
+Rafayel: Now I remember, I've seen the sea lanterns before.
+
+Next Dialogue:
+Main Character: You've been here?
+Rafayel: No, but when I was young, sea lanterns drifted over my hometown. I blew them out when I saw them.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Now I remember, I've seen the sea lanterns before.
+Main Character: You've been here?
+
+Rafayel Dialogue:
+Rafayel: No, but when I was young, sea lanterns drifted over my hometown. I blew them out when I saw them.
+
+Next Dialogue:
+Main Character: That... sounds like something you would do.
+Rafayel: Isn't it funny? They know the flames will eventually go out and yet they light the candles.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: No, but when I was young, sea lanterns drifted over my hometown. I blew them out when I saw them.
+Main Character: That... sounds like something you would do.
+
+Rafayel Dialogue:
+Rafayel: Isn't it funny? They know the flames will eventually go out and yet they light the candles.
+
+Next Dialogue:
+Rafayel: The flames are just like human lives, short and easily snuffed out. When these lanterns can be blown out so easily, how can humans expect them to keep anyone safe?
+Main Character: It's precisely because people are feeling helpless with what's happening in the world that they pin their hopes on traditions like these.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: That... sounds like something you would do.
+Rafayel: Isn't it funny? They know the flames will eventually go out and yet they light the candles.
+
+Rafayel Dialogue:
+Rafayel: The flames are just like human lives, short and easily snuffed out. When these lanterns can be blown out so easily, how can humans expect them to keep anyone safe?
+
+Next Dialogue:
+Main Character: It's precisely because people are feeling helpless with what's happening in the world that they pin their hopes on traditions like these.
+Main Character: Perhaps from your perspective, these are meaningless things that people do, but for some, it may be their last hope.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: It's precisely because people are feeling helpless with what's happening in the world that they pin their hopes on traditions like these.
+Main Character: Perhaps from your perspective, these are meaningless things that people do, but for some, it may be their last hope.
+
+Rafayel Dialogue:
+Rafayel: Maybe so, since they aren't aware that for those who have already had tragedy befall them, praying is but a form of self-comfort.
+
+Next Dialogue:
+Rafayel: But life goes on and the living has to go on living with hope in their hearts...
+Rafayel: So that means... the sea lanterns aren't completely useless after all.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Perhaps from your perspective, these are meaningless things that people do, but for some, it may be their last hope.
+Rafayel: Maybe so, since they aren't aware that for those who have already had tragedy befall them, praying is but a form of self-comfort.
+
+Rafayel Dialogue:
+Rafayel: But life goes on and the living has to go on living with hope in their hearts...
+
+Next Dialogue:
+Rafayel: So that means... the sea lanterns aren't completely useless after all.
+Rafayel: …The wind seems to have stopped.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Maybe so, since they aren't aware that for those who have already had tragedy befall them, praying is but a form of self-comfort.
+Rafayel: But life goes on and the living has to go on living with hope in their hearts...
+
+Rafayel Dialogue:
+Rafayel: So that means... the sea lanterns aren't completely useless after all.
+
+Next Dialogue:
+Rafayel: …The wind seems to have stopped.
+Rafayel: There are more people coming to float lanterns into the sea. Let's join them, shall we?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: But life goes on and the living has to go on living with hope in their hearts...
+Rafayel: So that means... the sea lanterns aren't completely useless after all.
+
+Rafayel Dialogue:
+Rafayel: …The wind seems to have stopped.
+
+Next Dialogue:
+Rafayel: There are more people coming to float lanterns into the sea. Let's join them, shall we?
+Main Character: Why are you suddenly so enthusiastic? Let me remind you that you're an adult and can't go around blowing others' lanterns out...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: So that means... the sea lanterns aren't completely useless after all.
+Rafayel: …The wind seems to have stopped.
+
+Rafayel Dialogue:
+Rafayel: There are more people coming to float lanterns into the sea. Let's join them, shall we?
+
+Next Dialogue:
+Main Character: Why are you suddenly so enthusiastic? Let me remind you that you're an adult and can't go around blowing others' lanterns out...
+Main Character: Rafayel, what are you doing?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Why are you suddenly so enthusiastic? Let me remind you that you're an adult and can't go around blowing others' lanterns out...
+Main Character: Rafayel, what are you doing?
+
+Rafayel Dialogue:
+Rafayel: Shhh, watch, I'm going to do some magic.
+
+Next Dialogue:
+Main Character: You used your own flame...
+Rafayel: This is your custom-made sea lantern. Let me pray for you.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Shhh, watch, I'm going to do some magic.
+Main Character: You used your own flame...
+
+Rafayel Dialogue:
+Rafayel: This is your custom-made sea lantern. Let me pray for you.
+
+Next Dialogue:
+Rafayel: I pray that your hopes will never go out.
+Main Character: And I pray that you...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You used your own flame...
+Rafayel: This is your custom-made sea lantern. Let me pray for you.
+
+Rafayel Dialogue:
+Rafayel: I pray that your hopes will never go out.
+
+Next Dialogue:
+Main Character: And I pray that you...
+Rafayel: Only one wish per sea lantern. Your wish will have to wait till next year.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I pray that your hopes will never go out.
+Main Character: And I pray that you...
+
+Rafayel Dialogue:
+Rafayel: Only one wish per sea lantern. Your wish will have to wait till next year.
+
+Next Dialogue:
+Main Character: ...I guess this flame will eventually go out too?
+Rafayel: My prayers for you will never go out. They will forever float on top of the waves.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Only one wish per sea lantern. Your wish will have to wait till next year.
+Main Character: ...I guess this flame will eventually go out too?
+
+Rafayel Dialogue:
+Rafayel: My prayers for you will never go out. They will forever float on top of the waves.
+
+Next Dialogue:
+Rafayel: Because my flames can never be extinguished.
+Main Character: That's good to hear. Still, it will eventually float somewhere out of my sight, which is a pity.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...I guess this flame will eventually go out too?
+Rafayel: My prayers for you will never go out. They will forever float on top of the waves.
+
+Rafayel Dialogue:
+Rafayel: Because my flames can never be extinguished.
+
+Next Dialogue:
+Main Character: That's good to hear. Still, it will eventually float somewhere out of my sight, which is a pity.
+Main Character: Look, it's about to be blown away...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: That's good to hear. Still, it will eventually float somewhere out of my sight, which is a pity.
+Main Character: Look, it's about to be blown away...
+
+Rafayel Dialogue:
+Rafayel: Finally, a not-so-blurry picture of you.
+
+Next Dialogue:
+Main Character: You took a picture of me? Let me see! Huh, it's only my eyes...
+Rafayel: Because your eyes hold the light of the sea lantern I gifted you. That way, it will forever stay by your side.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Finally, a not-so-blurry picture of you.
+Main Character: You took a picture of me? Let me see! Huh, it's only my eyes...
+
+Rafayel Dialogue:
+Rafayel: Because your eyes hold the light of the sea lantern I gifted you. That way, it will forever stay by your side.

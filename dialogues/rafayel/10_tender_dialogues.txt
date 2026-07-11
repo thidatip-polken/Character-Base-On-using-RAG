@@ -1,0 +1,329 @@
+Previous Dialogue:
+Main Character: Jenna, I've arrived at the location the anomaly report mentioned. No energy fluctuation detected so far.
+
+Rafayel Dialogue:
+Rafayel: Even the ocean itself is calm.
+
+Next Dialogue:
+Main Character: What was that noise you heard? Just seagulls. Got it, I'll remain on high alert and report back if I find anything.
+Rafayel: So I'm a seagull now?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Even the ocean itself is calm.
+Main Character: What was that noise you heard? Just seagulls. Got it, I'll remain on high alert and report back if I find anything.
+
+Rafayel Dialogue:
+Rafayel: So I'm a seagull now?
+
+Next Dialogue:
+Main Character: No, you're the consultant I hired!
+Rafayel: My job is to help you come up with ideas for your performance in the retirement home. Dealing with Wanderers was not part of the deal.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: So I'm a seagull now?
+Main Character: No, you're the consultant I hired!
+
+Rafayel Dialogue:
+Rafayel: My job is to help you come up with ideas for your performance in the retirement home. Dealing with Wanderers was not part of the deal.
+
+Next Dialogue:
+Main Character: But you're so good at it. Surely you wouldn't want me to face those pesky Wanderers alone?
+Rafayel: You'll be fiiine. This area has always been safe. Even if any Wanderers pop up, they're probably the stupid ones.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: My job is to help you come up with ideas for your performance in the retirement home. Dealing with Wanderers was not part of the deal.
+Main Character: But you're so good at it. Surely you wouldn't want me to face those pesky Wanderers alone?
+
+Rafayel Dialogue:
+Rafayel: You'll be fiiine. This area has always been safe. Even if any Wanderers pop up, they're probably the stupid ones.
+
+Next Dialogue:
+Main Character: Nothing on the sensor... but the residents in the area did capture a video of the seagulls crying in shock.
+Rafayel: If there really were any Wanderers, the seagulls wouldn't have cried at all. They'd be dead, don'tcha think?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You'll be fiiine. This area has always been safe. Even if any Wanderers pop up, they're probably the stupid ones.
+Main Character: Nothing on the sensor... but the residents in the area did capture a video of the seagulls crying in shock.
+
+Rafayel Dialogue:
+Rafayel: If there really were any Wanderers, the seagulls wouldn't have cried at all. They'd be dead, don'tcha think?
+
+Next Dialogue:
+Main Character: We have to get to the bottom of this. Let me check the rocks over there.
+Rafayel: The path is uneven. Hold my hand and watch your step.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: If there really were any Wanderers, the seagulls wouldn't have cried at all. They'd be dead, don'tcha think?
+Main Character: We have to get to the bottom of this. Let me check the rocks over there.
+
+Rafayel Dialogue:
+Rafayel: The path is uneven. Hold my hand and watch your step.
+
+Next Dialogue:
+Main Character: Look at all these shells!
+Rafayel: They're empty. Guess the gulls ate whatever was inside.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: The path is uneven. Hold my hand and watch your step.
+Main Character: Look at all these shells!
+
+Rafayel Dialogue:
+Rafayel: They're empty. Guess the gulls ate whatever was inside.
+
+Next Dialogue:
+Main Character: Didn't you mention needing some shells to make paint? Would these work?
+Rafayel: I don't like the colors... and they're too dirty.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: They're empty. Guess the gulls ate whatever was inside.
+Main Character: Didn't you mention needing some shells to make paint? Would these work?
+
+Rafayel Dialogue:
+Rafayel: I don't like the colors... and they're too dirty.
+
+Next Dialogue:
+Main Character: The seagulls here usually mate between May and July, but it's already August. They should have left by now... But there are flocks still hanging around.
+Rafayel: They seem restless. Something must have affected their natural routine.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I don't like the colors... and they're too dirty.
+Main Character: The seagulls here usually mate between May and July, but it's already August. They should have left by now... But there are flocks still hanging around.
+
+Rafayel Dialogue:
+Rafayel: They seem restless. Something must have affected their natural routine.
+
+Next Dialogue:
+Main Character: Can't be Wanderers. There's no energy fluctuation in the area.
+Main Character: Wait... the seagulls are heading straight for us!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Can't be Wanderers. There's no energy fluctuation in the area.
+Main Character: Wait... the seagulls are heading straight for us!
+
+Rafayel Dialogue:
+Rafayel: Watch out!
+
+Next Dialogue:
+Main Character: Strange. Why did they start attacking us all of a sudden?
+Rafayel: You hear that?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Watch out!
+Main Character: Strange. Why did they start attacking us all of a sudden?
+
+Rafayel Dialogue:
+Rafayel: You hear that?
+
+Next Dialogue:
+Main Character: Hear what?
+Rafayel: It's like an electric current, super faint. Must be from some device nearby.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You hear that?
+Main Character: Hear what?
+
+Rafayel Dialogue:
+Rafayel: It's like an electric current, super faint. Must be from some device nearby.
+
+Next Dialogue:
+Rafayel: Might be down there. Stay here. I'll go check.
+Rafayel: What if we grill them? That way we won't have to worry about dinner.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Hear what?
+Rafayel: It's like an electric current, super faint. Must be from some device nearby.
+
+Rafayel Dialogue:
+Rafayel: Might be down there. Stay here. I'll go check.
+
+Next Dialogue:
+Rafayel: What if we grill them? That way we won't have to worry about dinner.
+Main Character: Watch this.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's like an electric current, super faint. Must be from some device nearby.
+Rafayel: Might be down there. Stay here. I'll go check.
+
+Rafayel Dialogue:
+Rafayel: What if we grill them? That way we won't have to worry about dinner.
+
+Next Dialogue:
+Main Character: Watch this.
+Main Character: Great, it's working!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Watch this.
+Main Character: Great, it's working!
+
+Rafayel Dialogue:
+Rafayel: ...Is this what you're planning to do at the retirement home?
+
+Next Dialogue:
+Rafayel: I'm surprised they like this melody. These seagulls must be out of their minds.
+Main Character: Mmm mmm mmmph! (Hurry and do your thing!)
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Great, it's working!
+Rafayel: ...Is this what you're planning to do at the retirement home?
+
+Rafayel Dialogue:
+Rafayel: I'm surprised they like this melody. These seagulls must be out of their minds.
+
+Next Dialogue:
+Main Character: Mmm mmm mmmph! (Hurry and do your thing!)
+Rafayel: Stop playing. You're gonna kill my eardrums.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'm surprised they like this melody. These seagulls must be out of their minds.
+Main Character: Mmm mmm mmmph! (Hurry and do your thing!)
+
+Rafayel Dialogue:
+Rafayel: Stop playing. You're gonna kill my eardrums.
+
+Next Dialogue:
+Main Character: The seagulls aren't complaining.
+Rafayel: You sure about that?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Stop playing. You're gonna kill my eardrums.
+Main Character: The seagulls aren't complaining.
+
+Rafayel Dialogue:
+Rafayel: You sure about that?
+
+Next Dialogue:
+Rafayel: They lost their sense of direction because they were exposed to it for a long time.
+Rafayel: They can no longer find their way home.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: The seagulls aren't complaining.
+Rafayel: You sure about that?
+
+Rafayel Dialogue:
+Rafayel: They lost their sense of direction because they were exposed to it for a long time.
+
+Next Dialogue:
+Rafayel: They can no longer find their way home.
+Main Character: Will they be able to go home one day?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You sure about that?
+Rafayel: They lost their sense of direction because they were exposed to it for a long time.
+
+Rafayel Dialogue:
+Rafayel: They can no longer find their way home.
+
+Next Dialogue:
+Main Character: Will they be able to go home one day?
+Rafayel: They will if someone guides them.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: They can no longer find their way home.
+Main Character: Will they be able to go home one day?
+
+Rafayel Dialogue:
+Rafayel: They will if someone guides them.
+
+Next Dialogue:
+Main Character: Rafayel... the seagulls are gone!
+Rafayel: They're heading to their new home.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: They will if someone guides them.
+Main Character: Rafayel... the seagulls are gone!
+
+Rafayel Dialogue:
+Rafayel: They're heading to their new home.
+
+Next Dialogue:
+Main Character: New home?
+Rafayel: They usually build nests by the shore, but their home was destroyed. I guided them to a nearby area where they can start a new life.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: They're heading to their new home.
+Main Character: New home?
+
+Rafayel Dialogue:
+Rafayel: They usually build nests by the shore, but their home was destroyed. I guided them to a nearby area where they can start a new life.
+
+Next Dialogue:
+Rafayel: Don't wanna leave yet? This isn't your home anymore.
+Rafayel: What are you staring at?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: New home?
+Rafayel: They usually build nests by the shore, but their home was destroyed. I guided them to a nearby area where they can start a new life.
+
+Rafayel Dialogue:
+Rafayel: Don't wanna leave yet? This isn't your home anymore.
+
+Next Dialogue:
+Rafayel: What are you staring at?
+Main Character: The seagulls are going to their new home... and it's time we head back. Don't you think this tune would make great background music for our journey home?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: They usually build nests by the shore, but their home was destroyed. I guided them to a nearby area where they can start a new life.
+Rafayel: Don't wanna leave yet? This isn't your home anymore.
+
+Rafayel Dialogue:
+Rafayel: What are you staring at?
+
+Next Dialogue:
+Main Character: The seagulls are going to their new home... and it's time we head back. Don't you think this tune would make great background music for our journey home?
+Main Character: starts playing her slightly out-of-tune song again.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: The seagulls are going to their new home... and it's time we head back. Don't you think this tune would make great background music for our journey home?
+Main Character: starts playing her slightly out-of-tune song again.
+
+Rafayel Dialogue:
+Rafayel: Are you sure you really wanna perform this at the retirement home?
+
+Next Dialogue:
+Main Character: You're my consultant. You should be encouraging me to surpass my limits.
+Rafayel: I don't think the residents of the retirement home would be too happy about this.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Are you sure you really wanna perform this at the retirement home?
+Main Character: You're my consultant. You should be encouraging me to surpass my limits.
+
+Rafayel Dialogue:
+Rafayel: I don't think the residents of the retirement home would be too happy about this.
+
+Next Dialogue:
+Main Character: Won't you teach me, though?
+Rafayel: Yeah. Let's go home.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I don't think the residents of the retirement home would be too happy about this.
+Main Character: Won't you teach me, though?
+
+Rafayel Dialogue:
+Rafayel: Yeah. Let's go home.

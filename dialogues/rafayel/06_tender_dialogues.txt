@@ -1,0 +1,533 @@
+Previous Dialogue:
+Main Character: (He must've painted until dawn again...)
+Main Character: !
+
+Rafayel Dialogue:
+Rafayel: ...
+
+Next Dialogue:
+Rafayel: Am I dreaming...?
+Main Character: ...Yes. Now go back to sleep.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: !
+Rafayel: ...
+
+Rafayel Dialogue:
+Rafayel: Am I dreaming...?
+
+Next Dialogue:
+Main Character: ...Yes. Now go back to sleep.
+Rafayel: This is a dream? Awesome.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Am I dreaming...?
+Main Character: ...Yes. Now go back to sleep.
+
+Rafayel Dialogue:
+Rafayel: This is a dream? Awesome.
+
+Next Dialogue:
+Main Character: Rafayel... Let go...
+Rafayel: Why? You're the uninvited guest who barged in.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: This is a dream? Awesome.
+Main Character: Rafayel... Let go...
+
+Rafayel Dialogue:
+Rafayel: Why? You're the uninvited guest who barged in.
+
+Next Dialogue:
+Rafayel: Since it's a dream, I can do whatever I want, yeah?
+Rafayel: Good morning, Miss Bodyguard.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Rafayel... Let go...
+Rafayel: Why? You're the uninvited guest who barged in.
+
+Rafayel Dialogue:
+Rafayel: Since it's a dream, I can do whatever I want, yeah?
+
+Next Dialogue:
+Rafayel: Good morning, Miss Bodyguard.
+Main Character: You were just pretending to be asleep?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Why? You're the uninvited guest who barged in.
+Rafayel: Since it's a dream, I can do whatever I want, yeah?
+
+Rafayel Dialogue:
+Rafayel: Good morning, Miss Bodyguard.
+
+Next Dialogue:
+Main Character: You were just pretending to be asleep?
+Rafayel: Anyone would think they're dreaming if they opened their eyes and saw someone who should otherwise be thousands of miles away.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Good morning, Miss Bodyguard.
+Main Character: You were just pretending to be asleep?
+
+Rafayel Dialogue:
+Rafayel: Anyone would think they're dreaming if they opened their eyes and saw someone who should otherwise be thousands of miles away.
+
+Next Dialogue:
+Rafayel: I wanna confirm if this is real or not.
+Main Character: How are you going to—ah!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You were just pretending to be asleep?
+Rafayel: Anyone would think they're dreaming if they opened their eyes and saw someone who should otherwise be thousands of miles away.
+
+Rafayel Dialogue:
+Rafayel: I wanna confirm if this is real or not.
+
+Next Dialogue:
+Main Character: How are you going to—ah!
+Rafayel: Wait.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I wanna confirm if this is real or not.
+Main Character: How are you going to—ah!
+
+Rafayel Dialogue:
+Rafayel: Wait.
+
+Next Dialogue:
+Rafayel: Stay with me like this... For a little bit...
+Main Character: It's almost noon now. You can't do this again tomorrow.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: How are you going to—ah!
+Rafayel: Wait.
+
+Rafayel Dialogue:
+Rafayel: Stay with me like this... For a little bit...
+
+Next Dialogue:
+Main Character: It's almost noon now. You can't do this again tomorrow.
+Rafayel: Do what?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Stay with me like this... For a little bit...
+Main Character: It's almost noon now. You can't do this again tomorrow.
+
+Rafayel Dialogue:
+Rafayel: Do what?
+
+Next Dialogue:
+Rafayel: ...Smells good. What did you order?
+Main Character: Nothing much. Just some Braised Rafayel, Steamed Rafayel, and Garlic Rafayel.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: It's almost noon now. You can't do this again tomorrow.
+Rafayel: Do what?
+
+Rafayel Dialogue:
+Rafayel: ...Smells good. What did you order?
+
+Next Dialogue:
+Main Character: Nothing much. Just some Braised Rafayel, Steamed Rafayel, and Garlic Rafayel.
+Rafayel: This is quite the feast. I feel so pampered.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...Smells good. What did you order?
+Main Character: Nothing much. Just some Braised Rafayel, Steamed Rafayel, and Garlic Rafayel.
+
+Rafayel Dialogue:
+Rafayel: This is quite the feast. I feel so pampered.
+
+Next Dialogue:
+Rafayel: Have you expanded the scope of your duties as my bodyguard?
+Main Character: Only because my boss stays up all night and doesn't eat.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Nothing much. Just some Braised Rafayel, Steamed Rafayel, and Garlic Rafayel.
+Rafayel: This is quite the feast. I feel so pampered.
+
+Rafayel Dialogue:
+Rafayel: Have you expanded the scope of your duties as my bodyguard?
+
+Next Dialogue:
+Main Character: Only because my boss stays up all night and doesn't eat.
+Main Character: If something happens to you, I'd be out of a job. That's why I added full-scale supervision to my list of duties.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Only because my boss stays up all night and doesn't eat.
+Main Character: If something happens to you, I'd be out of a job. That's why I added full-scale supervision to my list of duties.
+
+Rafayel Dialogue:
+Rafayel: ...
+
+Next Dialogue:
+Rafayel: I suddenly remember how busy I've been these past few days. My hands are too tired to even hold a spoon or fork.
+Rafayel: If you wanna make sure I eat, will you do the honor...? Ah...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: If something happens to you, I'd be out of a job. That's why I added full-scale supervision to my list of duties.
+Rafayel: ...
+
+Rafayel Dialogue:
+Rafayel: I suddenly remember how busy I've been these past few days. My hands are too tired to even hold a spoon or fork.
+
+Next Dialogue:
+Rafayel: If you wanna make sure I eat, will you do the honor...? Ah...
+Main Character: ...In your dreams!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...
+Rafayel: I suddenly remember how busy I've been these past few days. My hands are too tired to even hold a spoon or fork.
+
+Rafayel Dialogue:
+Rafayel: If you wanna make sure I eat, will you do the honor...? Ah...
+
+Next Dialogue:
+Main Character: ...In your dreams!
+Main Character: Very pretty. I can tell that the frames of each piece and lighting, as well as the decor, had a lot of thought put into them.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Very pretty. I can tell that the frames of each piece and lighting, as well as the decor, had a lot of thought put into them.
+Main Character: My opinion isn't that important...
+
+Rafayel Dialogue:
+Rafayel: Whatcha talking about?
+
+Next Dialogue:
+Main Character: Rafayel? Are you done talking to the curator?
+Rafayel: Yeah, pretty much. Just some minor details left.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Whatcha talking about?
+Main Character: Rafayel? Are you done talking to the curator?
+
+Rafayel Dialogue:
+Rafayel: Yeah, pretty much. Just some minor details left.
+
+Next Dialogue:
+Main Character: I thought you'd talk for a long time, but you finished so quickly.
+Rafayel: Didn't you say you'd only allow me to work two hours today?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Yeah, pretty much. Just some minor details left.
+Main Character: I thought you'd talk for a long time, but you finished so quickly.
+
+Rafayel Dialogue:
+Rafayel: Didn't you say you'd only allow me to work two hours today?
+
+Next Dialogue:
+Rafayel: Five minutes left. Pick one.
+Main Character: They're very beautiful... How do I choose?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I thought you'd talk for a long time, but you finished so quickly.
+Rafayel: Didn't you say you'd only allow me to work two hours today?
+
+Rafayel Dialogue:
+Rafayel: Five minutes left. Pick one.
+
+Next Dialogue:
+Main Character: They're very beautiful... How do I choose?
+Rafayel: Trust your gut.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Five minutes left. Pick one.
+Main Character: They're very beautiful... How do I choose?
+
+Rafayel Dialogue:
+Rafayel: Trust your gut.
+
+Next Dialogue:
+Main Character: This one, then.
+Rafayel: Alright, this one.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Trust your gut.
+Main Character: This one, then.
+
+Rafayel Dialogue:
+Rafayel: Alright, this one.
+
+Next Dialogue:
+Rafayel: I'm off work now. Let's go.
+Main Character: Wait! You didn't tell me what that pebble is for yet.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: This one, then.
+Rafayel: Alright, this one.
+
+Rafayel Dialogue:
+Rafayel: I'm off work now. Let's go.
+
+Next Dialogue:
+Main Character: Wait! You didn't tell me what that pebble is for yet.
+Rafayel: It's nothing, really. It's for the pebble beach display at the center of the exhibit. Just wanted you to help me pick a color.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'm off work now. Let's go.
+Main Character: Wait! You didn't tell me what that pebble is for yet.
+
+Rafayel Dialogue:
+Rafayel: It's nothing, really. It's for the pebble beach display at the center of the exhibit. Just wanted you to help me pick a color.
+
+Next Dialogue:
+Main Character: At the center of the exhibit? It must be super important! Let me think it over again!
+Rafayel: Naaah, I trust your gut.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's nothing, really. It's for the pebble beach display at the center of the exhibit. Just wanted you to help me pick a color.
+Main Character: At the center of the exhibit? It must be super important! Let me think it over again!
+
+Rafayel Dialogue:
+Rafayel: Naaah, I trust your gut.
+
+Next Dialogue:
+Rafayel: What would you like to have? The muffins and cakes here are pretty good.
+Main Character: I'll have both!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: At the center of the exhibit? It must be super important! Let me think it over again!
+Rafayel: Naaah, I trust your gut.
+
+Rafayel Dialogue:
+Rafayel: What would you like to have? The muffins and cakes here are pretty good.
+
+Next Dialogue:
+Main Character: I'll have both!
+Main Character: (They're secretly photographing Rafayel... to spread fake news... and sabotage the exhibition?!)
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: (They're secretly photographing Rafayel... to spread fake news... and sabotage the exhibition?!)
+Main Character: (These despicable paparazzi! I have to stop them...)
+
+Rafayel Dialogue:
+Rafayel: There you are.
+
+Next Dialogue:
+Rafayel: What's wrong?
+Main Character: Um... I don't want cake anymore. I want ice cream!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: (These despicable paparazzi! I have to stop them...)
+Rafayel: There you are.
+
+Rafayel Dialogue:
+Rafayel: What's wrong?
+
+Next Dialogue:
+Main Character: Um... I don't want cake anymore. I want ice cream!
+Main Character: I saw an ice cream shop near the intersection. Can you get me some?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Um... I don't want cake anymore. I want ice cream!
+Main Character: I saw an ice cream shop near the intersection. Can you get me some?
+
+Rafayel Dialogue:
+Rafayel: Why did you change your mind all of a sudden?
+
+Next Dialogue:
+Main Character: My mood is always quick to change. Thanks...!
+Main Character: Excuse me, are you guys reporters?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I want you to delete the photo, stay away from the exhibition, and stop writing fake news about Rafayel.
+Main Character: I-if you do as I say, I'll delete the voice recording!
+
+Rafayel Dialogue:
+Rafayel: (First Name), I forgot to ask you...
+
+Next Dialogue:
+Rafayel: What flavor do you want?
+Rafayel: What a coincidence. It's Mr. Morlet from Morten Daily and Mr. Marty from Artistic Anecdotes.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I-if you do as I say, I'll delete the voice recording!
+Rafayel: (First Name), I forgot to ask you...
+
+Rafayel Dialogue:
+Rafayel: What flavor do you want?
+
+Next Dialogue:
+Rafayel: What a coincidence. It's Mr. Morlet from Morten Daily and Mr. Marty from Artistic Anecdotes.
+Rafayel: I'm bad at remembering things. Faces are an exception, though.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: (First Name), I forgot to ask you...
+Rafayel: What flavor do you want?
+
+Rafayel Dialogue:
+Rafayel: What a coincidence. It's Mr. Morlet from Morten Daily and Mr. Marty from Artistic Anecdotes.
+
+Next Dialogue:
+Rafayel: I'm bad at remembering things. Faces are an exception, though.
+Rafayel: How did my last lawsuit against you end? The judge found you guilty of... defamation or something?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: What flavor do you want?
+Rafayel: What a coincidence. It's Mr. Morlet from Morten Daily and Mr. Marty from Artistic Anecdotes.
+
+Rafayel Dialogue:
+Rafayel: I'm bad at remembering things. Faces are an exception, though.
+
+Next Dialogue:
+Rafayel: How did my last lawsuit against you end? The judge found you guilty of... defamation or something?
+Rafayel: I guess you guys also forgot. Wanna jog your memory and go through it again?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: What a coincidence. It's Mr. Morlet from Morten Daily and Mr. Marty from Artistic Anecdotes.
+Rafayel: I'm bad at remembering things. Faces are an exception, though.
+
+Rafayel Dialogue:
+Rafayel: How did my last lawsuit against you end? The judge found you guilty of... defamation or something?
+
+Next Dialogue:
+Rafayel: I guess you guys also forgot. Wanna jog your memory and go through it again?
+Main Character: So you already knew them... When did you get back? How much did you overhear?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'm bad at remembering things. Faces are an exception, though.
+Rafayel: How did my last lawsuit against you end? The judge found you guilty of... defamation or something?
+
+Rafayel Dialogue:
+Rafayel: I guess you guys also forgot. Wanna jog your memory and go through it again?
+
+Next Dialogue:
+Main Character: So you already knew them... When did you get back? How much did you overhear?
+Rafayel: Make a script next time you wanna trick me. That way I can pretend to fall for it.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I guess you guys also forgot. Wanna jog your memory and go through it again?
+Main Character: So you already knew them... When did you get back? How much did you overhear?
+
+Rafayel Dialogue:
+Rafayel: Make a script next time you wanna trick me. That way I can pretend to fall for it.
+
+Next Dialogue:
+Main Character: ...They were just paparazzi. I could've handled them myself. It's part of my job as your bodyguard.
+Rafayel: I know, I know. My bodyguard is the greatest. I really don't wanna leave her for a second.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Make a script next time you wanna trick me. That way I can pretend to fall for it.
+Main Character: ...They were just paparazzi. I could've handled them myself. It's part of my job as your bodyguard.
+
+Rafayel Dialogue:
+Rafayel: I know, I know. My bodyguard is the greatest. I really don't wanna leave her for a second.
+
+Next Dialogue:
+Rafayel: Come on. I paid for the ice cream already. One of each flavor.
+Rafayel: We should get them before they melt.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...They were just paparazzi. I could've handled them myself. It's part of my job as your bodyguard.
+Rafayel: I know, I know. My bodyguard is the greatest. I really don't wanna leave her for a second.
+
+Rafayel Dialogue:
+Rafayel: Come on. I paid for the ice cream already. One of each flavor.
+
+Next Dialogue:
+Rafayel: We should get them before they melt.
+Main Character: Is it really okay for you to hide in the crowd? You're the star of the show.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I know, I know. My bodyguard is the greatest. I really don't wanna leave her for a second.
+Rafayel: Come on. I paid for the ice cream already. One of each flavor.
+
+Rafayel Dialogue:
+Rafayel: We should get them before they melt.
+
+Next Dialogue:
+Main Character: Is it really okay for you to hide in the crowd? You're the star of the show.
+Rafayel: I'm not the only one who made this exhibit happen. You're one of the stars, too.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: We should get them before they melt.
+Main Character: Is it really okay for you to hide in the crowd? You're the star of the show.
+
+Rafayel Dialogue:
+Rafayel: I'm not the only one who made this exhibit happen. You're one of the stars, too.
+
+Next Dialogue:
+Main Character: Me?
+Rafayel: That's right. Didn't you escort me all this way, make sure I ate and slept well, and help me get rid of some pesky paparazzi?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'm not the only one who made this exhibit happen. You're one of the stars, too.
+Main Character: Me?
+
+Rafayel Dialogue:
+Rafayel: That's right. Didn't you escort me all this way, make sure I ate and slept well, and help me get rid of some pesky paparazzi?
+
+Next Dialogue:
+Main Character: You reminded me. Now that I don't have to worry about losing my job, can I go back to doing my normal bodyguard duties?
+Rafayel: Sure, but...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: That's right. Didn't you escort me all this way, make sure I ate and slept well, and help me get rid of some pesky paparazzi?
+Main Character: You reminded me. Now that I don't have to worry about losing my job, can I go back to doing my normal bodyguard duties?
+
+Rafayel Dialogue:
+Rafayel: Sure, but...
+
+Next Dialogue:
+Rafayel: I just came up with the perfect vacation plan. I'm having trouble implementing it without supervision, though.
+Rafayel: So, wanna expand the scope of your duties a bit more and stay by my side?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You reminded me. Now that I don't have to worry about losing my job, can I go back to doing my normal bodyguard duties?
+Rafayel: Sure, but...
+
+Rafayel Dialogue:
+Rafayel: I just came up with the perfect vacation plan. I'm having trouble implementing it without supervision, though.
+
+Next Dialogue:
+Rafayel: So, wanna expand the scope of your duties a bit more and stay by my side?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Sure, but...
+Rafayel: I just came up with the perfect vacation plan. I'm having trouble implementing it without supervision, though.
+
+Rafayel Dialogue:
+Rafayel: So, wanna expand the scope of your duties a bit more and stay by my side?

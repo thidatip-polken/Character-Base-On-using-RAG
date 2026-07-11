@@ -1,0 +1,524 @@
+Nightly Stroll (Rafayel Bond)
+(Interaction: Open the door)
+
+Main Character: Rafayel! Oh, sorry I'm late.
+
+(Direction: Approach Rafayel)
+
+Main Character: What happened? Are you all right?
+
+(Interaction: Talk)
+
+Main Character: Rafayel?
+
+(Action: Poke Rafayel on the shoulder)
+
+Rafayel: Who are you?
+
+(Interaction: Talk)
+
+Main Character: What?!
+
+Rafayel: You are...?
+
+Rafayel: Hmm... You do seem a bit familiar. Have we met before?
+
+Rafayel: It's been a while. I can't remember...
+
+Main Character: Rafayel, what are you talking about?
+
+Main Character: You don't remember me...
+
+Rafayel: Did you want me to remember you? Let's talk then.
+
+Rafayel: I mean, after all, why else would you be here so late at night?
+
+Main Character: Didn't you call me to come visit you because you're injured?
+
+Rafayel: Oh really? When did I call you?
+
+(Interaction: Talk)
+
+Main Character: This morning...
+
+Rafayel: This morning, huh...
+
+Rafayel: So you do remember!
+
+Rafayel: Do you know what time it is?
+
+Rafayel: It's been 800 years.
+
+Rafayel: Jellyfishes are walkin' naked.
+
+Rafayel: Sea turtles climb trees,
+
+Rafayel: sharks are eatin' grass for free.
+
+Rafayel: And finally,
+
+Rafayel: finally you remembered me.
+
+Rafayel: Any later,
+
+Rafayel: and I would've been discharged from the hospital already!
+
+(Interaction: Talk)
+
+Main Character: You... I...
+
+Main Character: An emergency mission came up!
+
+Rafayel: Another mission...
+
+Rafayel: Ah, I see! So I should assign you a mission next time I wanna see you.
+
+Rafayel: Didn't show up,
+
+Rafayel: didn't answer your phone.
+
+Rafayel: I thought you were in trouble...
+
+Rafayel: Sit down already! Stop looking like I'm picking on you or something.
+
+(Action: Sit down)
+
+Main Character: You haven't answered my first question. Why are you in the hospital?
+
+Rafayel: Uh...
+
+Rafayel: Because I'm injured, of course!
+
+Rafayel: I'm gravely ill.
+
+(Interaction: Talk)
+
+Main Character: (He looks super energetic though...)
+
+Main Character: Right, I brought you some fruit.
+
+Rafayel: Awww,
+
+Rafayel: that's so sweet of you. I mean...
+
+Rafayel: ...Is that all you have? An apple?
+
+(Interaction: Talk)
+
+Main Character: It's already late, and there was only one fruit stall still open. This is the last apple...
+
+Rafayel: ...Fine,
+
+Rafayel: I've been craving an apple all day.
+
+Rafayel: You know me so well.
+
+Rafayel: Knife's over there. Feed me.
+
+(Direction: Feed Rafayel)
+
+Main Character: Is it good?
+
+Rafayel: If it's from you, yeah.
+
+Main Character: Where exactly are you hurt again?
+
+Rafayel: My leg.
+
+Rafayel: It's in a cast.
+
+(Direction: Feed Rafayel)
+
+Main Character: Is it that bad? What did you do?
+
+Rafayel: ...Well,
+
+Rafayel: some kid was crossing the road without looking, so I pushed him out of the way.
+
+Rafayel: In the end, I fell and broke a bone.
+
+(Direction: Feed Rafayel)
+
+Main Character: So... will you have to stay here for a while then?
+
+Rafayel: Don't tell anyone else. Those tabloids are gonna praise me nonstop again if they find out.
+
+Rafayel: I prefer to keep a low profile.
+
+(Interaction: Talk)
+
+Main Character: Really? Is that so...?
+
+Rafayel: On my honor.
+
+Rafayel: Broken bones take time to heal,
+
+Rafayel: and even eating an apple takes effort.
+
+Rafayel: Maybe you can smuggle me out of here?
+
+Rafayel: The nurses are so mean. I can't even leave this room.
+
+(Interaction: Talk)
+
+Main Character: Um, how am I supposed to smuggle someone out of a hospital?
+
+Nurse: Visiting time is up. Please leave.
+
+Main Character: Oh, okay.
+
+Rafayel: Why didn't you knock? This is my private room.
+
+Rafayel: Ignore her. I'm the patient so what I say goes.
+
+Nurse: Patient, huh?
+
+Nurse: Mr. Rafayel, you told me that you came out of the bathtub, stepped on a paintbrush, and twisted your ankle. What made you check yourself into the hospital?
+
+Nurse: Rich people have weird hobbies.
+
+Main Character: ...
+
+Rafayel: ...
+
+Rafayel: That's...
+
+Rafayel: That's nonsense.
+
+Rafayel: You don't believe her, do you?
+
+Rafayel: I don't wanna hear a word about this. I don't even wanna hear you speak.
+
+(Interaction: Talk)
+
+Rafayel: Don't say it. Hold it in. Aaand swallow.
+
+(Interaction: Talk)
+
+Main Character: So that's how you got hurt!
+
+Main Character: Your home must be quite a mess!
+
+Rafayel: What's wrong with being messy?
+
+Rafayel: It's a known fact that
+
+Rafayel: only idiots put things in the correct spot.
+
+Rafayel: On the other hand, chaos is a mark of intelligence.
+
+Nurse: Time's up!
+
+Rafayel: Ah... It's so noisy...
+
+(Interaction: Talk)
+
+Main Character: Take your cast off and get some rest. I'm going to head home worry-free.
+
+Rafayel: Visits are half an hour and you leave after only a few minutes?
+
+(Interaction: Talk)
+
+Main Character: You're doing just fine. I have work in the morning.
+
+Rafayel: Wait for me.
+
+(Interaction: Talk)
+
+Main Character: Huh?
+
+Rafayel: Let's go. What are we waiting for?
+
+Rafayel: Can't I be around you a while longer?
+
+(Action: Take Rafayel's hand)
+
+Main Character: All right.
+
+Rafayel: Walking with you in a moonlit garden is a wonderful experience. Fun, even.
+
+Main Character: We've only taken a few steps outside...
+
+Rafayel: Doesn't matter. My ankle's twisted, so I'm moving slowly. No rush.
+
+Main Character: I see you're still in a good mood...
+
+Rafayel: Hush, don't talk.
+
+Rafayel: I think I hear... something screaming...
+
+Main Character: Really? How did I not notice...
+
+Rafayel: Sometimes, I envy you.
+
+Rafayel: Oblivious and thick-skinned. You must be living a happy life.
+
+(Interaction: Talk)
+
+Main Character: You!
+
+Rafayel: Shush,
+
+Rafayel: I really did hear something.
+
+(Interaction: Talk)
+
+Main Character: Is there a Wanderer in the hospital?
+
+Rafayel: Yeah,
+
+Rafayel: a Wanderer.
+
+Rafayel: It could be that.
+
+Rafayel: Looks like it came from over there.
+
+Rafayel: Come on,
+
+Rafayel: why don't we check it out?
+
+(Action: Take Rafayel's hand)
+
+Main Character: The way I see it, you just don't want to go back to your room...
+
+Rafayel: Yep, the sound came from over here.
+
+Rafayel: This pool changes out its water every night, so it's pretty clean. The fish are...
+
+Rafayel: Super fat. Maybe the cafeteria keeps them for food...
+
+(Direction: Look to the left)
+
+(Direction: Look to the right)
+
+Main Character: Look! A fish is stuck over there.
+
+Main Character: Oh, the noise was just a clogged pipe...
+
+Rafayel: Tail's caught.
+
+Main Character: Got it!
+
+Rafayel: Your willingness to rescue strays? It's very worrisome.
+
+(Interaction: Talk)
+
+Main Character: What's so worrying about it?
+
+Rafayel: One can never know what an innocent act of kindness
+
+Rafayel: means to someone.
+
+(Interaction: Talk)
+
+Main Character: What do you mean...
+
+Rafayel: Since you have
+
+Rafayel: a naive perspective on life,
+
+Rafayel: allow me to tell you a story.
+
+Rafayel: Listen closely.
+
+Rafayel: Then decide whether or not to spread kindness wherever you go.
+
+Rafayel: A long, long time ago, I... I mean a friend of mine.
+
+(Interaction: Talk)
+
+Main Character: You have friends?
+
+Rafayel: Why wouldn't I?
+
+Rafayel: Don't interrupt me again.
+
+Rafayel: This friend of mine...
+
+Rafayel: Lives in the deep sea.
+
+Rafayel: And down there...
+
+Rafayel: there isn't very much,
+
+Rafayel: you know.
+
+Rafayel: Even the fish are ugly.
+
+Rafayel: After a while,
+
+Rafayel: he wanted to go to the surface and look around.
+
+Rafayel: One day,
+
+Rafayel: he did just that.
+
+Rafayel: But then,
+
+Rafayel: he found the surface to be as equally boring as the sea,
+
+Rafayel: so he went back home.
+
+(Interaction: Talk)
+
+Main Character: I'm feeling a little bored myself...
+
+Rafayel: A little patience, please? I'm not even at the good part yet.
+
+Rafayel: So, anyway,
+
+Rafayel: on the way back,
+
+Rafayel: he got stranded on a beach.
+
+Main Character: Stranded?
+
+Rafayel: Just like the fish from earlier.
+
+Rafayel: No way out,
+
+Rafayel: no hope,
+
+Rafayel: and waiting to die.
+
+(Interaction: Talk)
+
+Main Character: And then?
+
+Rafayel: He met someone who did things without asking, like you,
+
+Rafayel: and she rescued him.
+
+Rafayel: Of course,
+
+Rafayel: the only reason she rescued him
+
+Rafayel: was because of his dashingly good looks.
+
+Rafayel: Hmm, he was still very handsome, even when he was half dead.
+
+Rafayel: Unwittingly, the girl was drawn to him.
+
+Rafayel: Actually, we can say his otherworldly charm did him a few favors.
+
+(Interaction: Talk)
+
+Main Character: But your friend was rescued. Isn't that a good thing?
+
+Rafayel: ...Rescued?
+
+Rafayel: It was the beginning of a tragedy.
+
+Rafayel: After that,
+
+Rafayel: the girl forgot all about him
+
+Rafayel: in the blink of an eye.
+
+Rafayel: What a fish brain...
+
+Rafayel: But for him,
+
+Rafayel: from that moment forward,
+
+Rafayel: the deep sea became a prison.
+
+Because...?
+
+Main Character: Because he fell in love with the girl who saved him?
+
+Rafayel: Love?
+
+Rafayel: Yeah,
+
+Rafayel: love.
+
+Rafayel: Now do you understand how dangerous the world is?
+
+Main Character: This friend is you, isn't it?
+
+Rafayel: Well, what if it is me?
+
+Rafayel: I waited for her for a long,
+
+Rafayel: long time,
+
+Rafayel: and she never appeared again.
+
+Rafayel: And like I said, I hate waiting. You made me wait an entire day.
+
+Main Character: Oh, I'm sorry...
+
+Rafayel: An apology?
+
+Rafayel: Promise me that you won't make me wait for you again.
+
+(Interaction: Talk)
+
+Main Character: But for me, work always comes first.
+
+Rafayel: ...I'm not asking you to show up on the dot.
+
+Rafayel: Just, wherever you are, whatever you get into, you tell me as soon as you can.
+
+Rafayel: Don't just disappear ever again, okay?
+
+(Interaction: Talk)
+
+Main Character: All right... I understand.
+
+Rafayel: Swear it.
+
+(Interaction: Talk)
+
+Main Character: I swear it.
+
+Rafayel: No,
+
+Rafayel: your human vows are never reliable.
+
+Rafayel: We do it my way.
+
+Rafayel: Close your eyes,
+
+Rafayel: repeat after me.
+
+Rafayel: "I will never make Rafayel wait for me."
+
+Main Character: I...
+
+Main Character: I will never make Rafayel wait for me.
+
+Rafayel: Good.
+
+Main Character: Where did the fish come from?
+
+Rafayel: This is a ceremonial vow of my people. Fish are the emissaries of the ocean.
+
+Rafayel: If the vow has the blessing of the ocean, then a fish will appear between our palms.
+
+Rafayel: Don't forget what you said today.
+
+Nurse: Aha. Found you!
+
+Nurse: How romantic, sneaking out with a twisted ankle for a date.
+
+Nurse: Mr. Rafayel, you're such a Romeo.
+
+Rafayel: Come ooon, I'm just trying to escort her home...
+
+Nurse: Yes, I'm sure you are.
+
+Rafayel: It's getting late.
+
+Rafayel: You should probably head back.
+
+Rafayel: I get out in two days. Pick me up.
+
+Rafayel: And remember, don't be late again!!
+
+Main Character: Got it.
+
+Rafayel: Also... stop disappearing on me.
+
+Rafayel: Because... I don't wanna feel anxious and frustrated again.

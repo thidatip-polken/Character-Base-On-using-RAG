@@ -1,0 +1,434 @@
+Rafayel Dialogue:
+Rafayel: I'm just temporarily blind, you know? I'm not deaf and my other senses are working.
+
+Next Dialogue:
+Main Character: What did the doctor say?
+Rafayel: Said it's not too bad. Two days of rest should do it.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'm just temporarily blind, you know? I'm not deaf and my other senses are working.
+Main Character: What did the doctor say?
+
+Rafayel Dialogue:
+Rafayel: Said it's not too bad. Two days of rest should do it.
+
+Next Dialogue:
+Main Character: Really? You aren't hiding anything from me, are you?
+Rafayel: What do I have to hide? That I'm terminally ill and plan to die alone, and my last wish is to see you one more time?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Said it's not too bad. Two days of rest should do it.
+Main Character: Really? You aren't hiding anything from me, are you?
+
+Rafayel Dialogue:
+Rafayel: What do I have to hide? That I'm terminally ill and plan to die alone, and my last wish is to see you one more time?
+
+Next Dialogue:
+Main Character: Ugh, don't jinx it.
+Rafayel: My doctor wrote down how and when to take these medications on my prescription. Told me to have my family member read it for me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: What do I have to hide? That I'm terminally ill and plan to die alone, and my last wish is to see you one more time?
+Main Character: Ugh, don't jinx it.
+
+Rafayel Dialogue:
+Rafayel: My doctor wrote down how and when to take these medications on my prescription. Told me to have my family member read it for me.
+
+Next Dialogue:
+Main Character: ...I'll read it once we get back.
+Main Character: Huh?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...I'll read it once we get back.
+Main Character: Huh?
+
+Rafayel Dialogue:
+Rafayel: I can't see. Aren't you going to hold my hand and guide me?
+
+Next Dialogue:
+Main Character: Hold on, if you can't see, then how did you find your way to the hospital?
+Rafayel: I just called a cab and told the driver to drive me here. After getting out of the cab, I caught hold of a kind passerby, told him I couldn't see, and had him take me to the ophthalmology department.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I can't see. Aren't you going to hold my hand and guide me?
+Main Character: Hold on, if you can't see, then how did you find your way to the hospital?
+
+Rafayel Dialogue:
+Rafayel: I just called a cab and told the driver to drive me here. After getting out of the cab, I caught hold of a kind passerby, told him I couldn't see, and had him take me to the ophthalmology department.
+
+Next Dialogue:
+Main Character: ...Why didn't you call me for help?
+Rafayel: Maybe... I just didn't want you to freak out and annoy the doctors with your screaming.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I just called a cab and told the driver to drive me here. After getting out of the cab, I caught hold of a kind passerby, told him I couldn't see, and had him take me to the ophthalmology department.
+Main Character: ...Why didn't you call me for help?
+
+Rafayel Dialogue:
+Rafayel: Maybe... I just didn't want you to freak out and annoy the doctors with your screaming.
+
+Next Dialogue:
+Main Character: Ugh, you!
+Rafayel: Take me home. I'm tired.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Maybe... I just didn't want you to freak out and annoy the doctors with your screaming.
+Main Character: Ugh, you!
+
+Rafayel Dialogue:
+Rafayel: Take me home. I'm tired.
+
+Next Dialogue:
+Main Character: How did you suddenly become blind? Has this happened before?
+Rafayel: Pulled one too many late-nighters. It's pretty normal.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Take me home. I'm tired.
+Main Character: How did you suddenly become blind? Has this happened before?
+
+Rafayel Dialogue:
+Rafayel: Pulled one too many late-nighters. It's pretty normal.
+
+Next Dialogue:
+Main Character: Normal? How long did you stay up?
+Rafayel: Two days.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Pulled one too many late-nighters. It's pretty normal.
+Main Character: Normal? How long did you stay up?
+
+Rafayel Dialogue:
+Rafayel: Two days.
+
+Next Dialogue:
+Main Character: ...And what did you work so hard on?
+Rafayel: Over there.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Two days.
+Main Character: ...And what did you work so hard on?
+
+Rafayel Dialogue:
+Rafayel: Over there.
+
+Next Dialogue:
+Main Character: ...I know you want to work while the inspiration is hot, but you really shouldn't ignore sleep.
+Rafayel: Nah, quite the opposite. I haven't found any inspiration for this piece. It's been two days and I've made no real progress.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Over there.
+Main Character: ...I know you want to work while the inspiration is hot, but you really shouldn't ignore sleep.
+
+Rafayel Dialogue:
+Rafayel: Nah, quite the opposite. I haven't found any inspiration for this piece. It's been two days and I've made no real progress.
+
+Next Dialogue:
+Rafayel: No wonder why I haven't been able to get the color I want. My eyes weren't working right.
+Rafayel: My eye doctor said it's likely going to happen again, and worst-case scenario I could lose my sight forever.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...I know you want to work while the inspiration is hot, but you really shouldn't ignore sleep.
+Rafayel: Nah, quite the opposite. I haven't found any inspiration for this piece. It's been two days and I've made no real progress.
+
+Rafayel Dialogue:
+Rafayel: No wonder why I haven't been able to get the color I want. My eyes weren't working right.
+
+Next Dialogue:
+Rafayel: My eye doctor said it's likely going to happen again, and worst-case scenario I could lose my sight forever.
+Rafayel: Are you searching my symptoms online? I heard you flipping through my medical records.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Nah, quite the opposite. I haven't found any inspiration for this piece. It's been two days and I've made no real progress.
+Rafayel: No wonder why I haven't been able to get the color I want. My eyes weren't working right.
+
+Rafayel Dialogue:
+Rafayel: My eye doctor said it's likely going to happen again, and worst-case scenario I could lose my sight forever.
+
+Next Dialogue:
+Rafayel: Are you searching my symptoms online? I heard you flipping through my medical records.
+Rafayel: Well, what does it say?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: No wonder why I haven't been able to get the color I want. My eyes weren't working right.
+Rafayel: My eye doctor said it's likely going to happen again, and worst-case scenario I could lose my sight forever.
+
+Rafayel Dialogue:
+Rafayel: Are you searching my symptoms online? I heard you flipping through my medical records.
+
+Next Dialogue:
+Rafayel: Well, what does it say?
+Main Character: You should get plenty of rest, take your medication on time, and follow the doctor's orders. Then everything should be fine in two weeks.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: My eye doctor said it's likely going to happen again, and worst-case scenario I could lose my sight forever.
+Rafayel: Are you searching my symptoms online? I heard you flipping through my medical records.
+
+Rafayel Dialogue:
+Rafayel: Well, what does it say?
+
+Next Dialogue:
+Main Character: You should get plenty of rest, take your medication on time, and follow the doctor's orders. Then everything should be fine in two weeks.
+Main Character: !
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You should get plenty of rest, take your medication on time, and follow the doctor's orders. Then everything should be fine in two weeks.
+Main Character: !
+
+Rafayel Dialogue:
+Rafayel: I'll treat you to steak. How about it?
+
+Next Dialogue:
+Main Character: Why are you so generous all of a sudden? You're not planning to have me cook it, are you?
+Rafayel: Well, isn't that part of your responsibility as my bodyguard?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I'll treat you to steak. How about it?
+Main Character: Why are you so generous all of a sudden? You're not planning to have me cook it, are you?
+
+Rafayel Dialogue:
+Rafayel: Well, isn't that part of your responsibility as my bodyguard?
+
+Next Dialogue:
+Main Character: Raf—
+Main Character: (...Maybe I should stay until he wakes up.)
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: (...Maybe I should stay until he wakes up.)
+Main Character: ...
+
+Rafayel Dialogue:
+Rafayel: Oh, did I accidentally wake you up? I can't help it. Inspiration usually hits me at night.
+
+Next Dialogue:
+Main Character: Painting at this hour is a very "you" thing to do...
+Rafayel: Since you're awake, come lend me a hand. I can't see, so I need someone to mix the colors for me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Oh, did I accidentally wake you up? I can't help it. Inspiration usually hits me at night.
+Main Character: Painting at this hour is a very "you" thing to do...
+
+Rafayel Dialogue:
+Rafayel: Since you're awake, come lend me a hand. I can't see, so I need someone to mix the colors for me.
+
+Next Dialogue:
+Rafayel: First, I'm looking for a dark cobalt blue, the kind that resembles the color of my marble floor. Blend cerulean blue into black, and if it looks too dark, add a bit of zinc white.
+Main Character: ...I'll try.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Painting at this hour is a very "you" thing to do...
+Rafayel: Since you're awake, come lend me a hand. I can't see, so I need someone to mix the colors for me.
+
+Rafayel Dialogue:
+Rafayel: First, I'm looking for a dark cobalt blue, the kind that resembles the color of my marble floor. Blend cerulean blue into black, and if it looks too dark, add a bit of zinc white.
+
+Next Dialogue:
+Main Character: ...I'll try.
+Rafayel: Next, I'm looking for deep emerald green. Think of a lake shimmering under sunlight. Mix a generous amount of ultramarine, some sap green, and a dab of Indian yellow...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: First, I'm looking for a dark cobalt blue, the kind that resembles the color of my marble floor. Blend cerulean blue into black, and if it looks too dark, add a bit of zinc white.
+Main Character: ...I'll try.
+
+Rafayel Dialogue:
+Rafayel: Next, I'm looking for deep emerald green. Think of a lake shimmering under sunlight. Mix a generous amount of ultramarine, some sap green, and a dab of Indian yellow...
+
+Next Dialogue:
+Main Character: Wait a minute... What do you mean by "a generous amount"? How much paint am I supposed to add? Can't you be more precise?
+Rafayel: I can't. There's no such thing as precision in art.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Next, I'm looking for deep emerald green. Think of a lake shimmering under sunlight. Mix a generous amount of ultramarine, some sap green, and a dab of Indian yellow...
+Main Character: Wait a minute... What do you mean by "a generous amount"? How much paint am I supposed to add? Can't you be more precise?
+
+Rafayel Dialogue:
+Rafayel: I can't. There's no such thing as precision in art.
+
+Next Dialogue:
+Main Character: So what if I mess up and ruin your painting?
+Rafayel: Just like you, colors have emotions too. When you're happy, your eyes have a warm glow. When you're being stubborn, you clench your fists so hard they turn red.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I can't. There's no such thing as precision in art.
+Main Character: So what if I mess up and ruin your painting?
+
+Rafayel Dialogue:
+Rafayel: Just like you, colors have emotions too. When you're happy, your eyes have a warm glow. When you're being stubborn, you clench your fists so hard they turn red.
+
+Next Dialogue:
+Rafayel: I can't see those colors now, but I can feel them with my heart...
+Rafayel: For example, I think now you must have...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: So what if I mess up and ruin your painting?
+Rafayel: Just like you, colors have emotions too. When you're happy, your eyes have a warm glow. When you're being stubborn, you clench your fists so hard they turn red.
+
+Rafayel Dialogue:
+Rafayel: I can't see those colors now, but I can feel them with my heart...
+
+Next Dialogue:
+Rafayel: For example, I think now you must have...
+Rafayel: your face covered in paint!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Just like you, colors have emotions too. When you're happy, your eyes have a warm glow. When you're being stubborn, you clench your fists so hard they turn red.
+Rafayel: I can't see those colors now, but I can feel them with my heart...
+
+Rafayel Dialogue:
+Rafayel: For example, I think now you must have...
+
+Next Dialogue:
+Rafayel: your face covered in paint!
+Main Character: Rafayel!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I can't see those colors now, but I can feel them with my heart...
+Rafayel: For example, I think now you must have...
+
+Rafayel Dialogue:
+Rafayel: your face covered in paint!
+
+Next Dialogue:
+Main Character: Rafayel!
+Rafayel: I won't give you the chance.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: your face covered in paint!
+Main Character: Rafayel!
+
+Rafayel Dialogue:
+Rafayel: I won't give you the chance.
+
+Next Dialogue:
+Main Character: Do you yield?
+Rafayel: Do you yield?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I won't give you the chance.
+Main Character: Do you yield?
+
+Rafayel Dialogue:
+Rafayel: Do you yield?
+
+Next Dialogue:
+Main Character: Hmph!
+Rafayel: I guess it's not really midnight now, is it?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Do you yield?
+Main Character: Hmph!
+
+Rafayel Dialogue:
+Rafayel: I guess it's not really midnight now, is it?
+
+Next Dialogue:
+Rafayel: You wouldn't be talking this loudly if it were.
+Main Character: ...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Hmph!
+Rafayel: I guess it's not really midnight now, is it?
+
+Rafayel Dialogue:
+Rafayel: You wouldn't be talking this loudly if it were.
+
+Next Dialogue:
+Main Character: ...
+Rafayel: If I lose my sight one day, I'll be counting on you to see the world for me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You wouldn't be talking this loudly if it were.
+Main Character: ...
+
+Rafayel Dialogue:
+Rafayel: If I lose my sight one day, I'll be counting on you to see the world for me.
+
+Next Dialogue:
+Rafayel: So it doesn't matter if you can't get the exact color. I choose to trust your eyes.
+Rafayel: Hey, there's still work to be done. Let's get going.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...
+Rafayel: If I lose my sight one day, I'll be counting on you to see the world for me.
+
+Rafayel Dialogue:
+Rafayel: So it doesn't matter if you can't get the exact color. I choose to trust your eyes.
+
+Next Dialogue:
+Rafayel: Hey, there's still work to be done. Let's get going.
+Rafayel: Next, a rich shade of purple: The color of wild pansies.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: If I lose my sight one day, I'll be counting on you to see the world for me.
+Rafayel: So it doesn't matter if you can't get the exact color. I choose to trust your eyes.
+
+Rafayel Dialogue:
+Rafayel: Hey, there's still work to be done. Let's get going.
+
+Next Dialogue:
+Rafayel: Next, a rich shade of purple: The color of wild pansies.
+Main Character: Abyss? It's a colorful painting. Why did you name it that?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: So it doesn't matter if you can't get the exact color. I choose to trust your eyes.
+Rafayel: Hey, there's still work to be done. Let's get going.
+
+Rafayel Dialogue:
+Rafayel: Next, a rich shade of purple: The color of wild pansies.
+
+Next Dialogue:
+Main Character: Abyss? It's a colorful painting. Why did you name it that?
+Rafayel: Perhaps it's because darkness was all that I could see while painting it. Perhaps once you see the darkness, you can never unsee it.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Next, a rich shade of purple: The color of wild pansies.
+Main Character: Abyss? It's a colorful painting. Why did you name it that?
+
+Rafayel Dialogue:
+Rafayel: Perhaps it's because darkness was all that I could see while painting it. Perhaps once you see the darkness, you can never unsee it.
+
+Next Dialogue:
+Main Character: I don't believe that.
+Main Character: Once you've seen color, it will be forever etched in your memory.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I don't believe that.
+Main Character: Once you've seen color, it will be forever etched in your memory.
+
+Rafayel Dialogue:
+Rafayel: Well, let's head out there and see the world together.

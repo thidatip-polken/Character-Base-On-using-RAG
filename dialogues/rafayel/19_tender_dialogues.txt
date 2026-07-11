@@ -1,0 +1,601 @@
+Rafayel Dialogue:
+Rafayel: Did you have to explain to every passenger we passed on the plane that I was afraid of heights, not crazy? Everyone kept staring at me because of you.
+
+Next Dialogue:
+Main Character: You were clutching me the whole time. I can't feel my arm...
+Rafayel: It's numb? Fine, I'll carry your bag then.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Did you have to explain to every passenger we passed on the plane that I was afraid of heights, not crazy? Everyone kept staring at me because of you.
+Main Character: You were clutching me the whole time. I can't feel my arm...
+
+Rafayel Dialogue:
+Rafayel: It's numb? Fine, I'll carry your bag then.
+
+Next Dialogue:
+Rafayel: I was contemplating the other day where I should go to get inspiration when my eyes fell on the antique jigsaw puzzle we pieced together.
+Rafayel: The scenery was remarkable, but it wasn't easy to find out where the place was. I spent quite a lot of time looking for it.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You were clutching me the whole time. I can't feel my arm...
+Rafayel: It's numb? Fine, I'll carry your bag then.
+
+Rafayel Dialogue:
+Rafayel: I was contemplating the other day where I should go to get inspiration when my eyes fell on the antique jigsaw puzzle we pieced together.
+
+Next Dialogue:
+Rafayel: The scenery was remarkable, but it wasn't easy to find out where the place was. I spent quite a lot of time looking for it.
+Rafayel: It always gets a little lonely traveling alone. That's why I asked you along.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's numb? Fine, I'll carry your bag then.
+Rafayel: I was contemplating the other day where I should go to get inspiration when my eyes fell on the antique jigsaw puzzle we pieced together.
+
+Rafayel Dialogue:
+Rafayel: The scenery was remarkable, but it wasn't easy to find out where the place was. I spent quite a lot of time looking for it.
+
+Next Dialogue:
+Rafayel: It always gets a little lonely traveling alone. That's why I asked you along.
+Main Character: So that's why you called me in the middle of the night. It was a spur-of-the-moment thing.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I was contemplating the other day where I should go to get inspiration when my eyes fell on the antique jigsaw puzzle we pieced together.
+Rafayel: The scenery was remarkable, but it wasn't easy to find out where the place was. I spent quite a lot of time looking for it.
+
+Rafayel Dialogue:
+Rafayel: It always gets a little lonely traveling alone. That's why I asked you along.
+
+Next Dialogue:
+Main Character: So that's why you called me in the middle of the night. It was a spur-of-the-moment thing.
+Rafayel: Of course not, I asked you to come along because-
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It always gets a little lonely traveling alone. That's why I asked you along.
+Main Character: So that's why you called me in the middle of the night. It was a spur-of-the-moment thing.
+
+Rafayel Dialogue:
+Rafayel: Of course not, I asked you to come along because-
+
+Next Dialogue:
+Main Character: Because of what?
+Rafayel: I'll tell you when we get there.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Of course not, I asked you to come along because-
+Main Character: Because of what?
+
+Rafayel Dialogue:
+Rafayel: I'll tell you when we get there.
+
+Next Dialogue:
+Rafayel: It wasn't loaded onto the plane? You mean we have a piece of luggage left in the Linkon Airport?
+Main Character: How can a screw-up like this happen? If I don't have my luggage, how am I going to...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Because of what?
+Rafayel: I'll tell you when we get there.
+
+Rafayel Dialogue:
+Rafayel: It wasn't loaded onto the plane? You mean we have a piece of luggage left in the Linkon Airport?
+
+Next Dialogue:
+Main Character: How can a screw-up like this happen? If I don't have my luggage, how am I going to...
+Rafayel: Let's put that aside for now. At least my luggage made it. It's the rainy season and it may rain anytime, so let's head over to the inn first.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It wasn't loaded onto the plane? You mean we have a piece of luggage left in the Linkon Airport?
+Main Character: How can a screw-up like this happen? If I don't have my luggage, how am I going to...
+
+Rafayel Dialogue:
+Rafayel: Let's put that aside for now. At least my luggage made it. It's the rainy season and it may rain anytime, so let's head over to the inn first.
+
+Next Dialogue:
+Rafayel: It's been awhile since I've been to such as pastoral place. If only we had a red convertible! We'd blaze through the grasslands.
+Rafayel: Does this ox cart... count as a convertible?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: How can a screw-up like this happen? If I don't have my luggage, how am I going to...
+Rafayel: Let's put that aside for now. At least my luggage made it. It's the rainy season and it may rain anytime, so let's head over to the inn first.
+
+Rafayel Dialogue:
+Rafayel: It's been awhile since I've been to such as pastoral place. If only we had a red convertible! We'd blaze through the grasslands.
+
+Next Dialogue:
+Rafayel: Does this ox cart... count as a convertible?
+Rafayel: ...It's not too bad, very rural.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Let's put that aside for now. At least my luggage made it. It's the rainy season and it may rain anytime, so let's head over to the inn first.
+Rafayel: It's been awhile since I've been to such as pastoral place. If only we had a red convertible! We'd blaze through the grasslands.
+
+Rafayel Dialogue:
+Rafayel: Does this ox cart... count as a convertible?
+
+Next Dialogue:
+Rafayel: ...It's not too bad, very rural.
+Rafayel: We're finally here. The ox cart was even worse than the plane.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's been awhile since I've been to such as pastoral place. If only we had a red convertible! We'd blaze through the grasslands.
+Rafayel: Does this ox cart... count as a convertible?
+
+Rafayel Dialogue:
+Rafayel: ...It's not too bad, very rural.
+
+Next Dialogue:
+Rafayel: We're finally here. The ox cart was even worse than the plane.
+Main Character: Is the receptionist speaking the local language? I can't understand a single word...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Does this ox cart... count as a convertible?
+Rafayel: ...It's not too bad, very rural.
+
+Rafayel Dialogue:
+Rafayel: We're finally here. The ox cart was even worse than the plane.
+
+Next Dialogue:
+Main Character: Is the receptionist speaking the local language? I can't understand a single word...
+Rafayel: Hand me your passport and wait for me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: We're finally here. The ox cart was even worse than the plane.
+Main Character: Is the receptionist speaking the local language? I can't understand a single word...
+
+Rafayel Dialogue:
+Rafayel: Hand me your passport and wait for me.
+
+Next Dialogue:
+Rafayel: I have good news, bad news, and more good news. Which do you want to hear first?
+Main Character: Don't beat around the bush. Tell me in that order.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Is the receptionist speaking the local language? I can't understand a single word...
+Rafayel: Hand me your passport and wait for me.
+
+Rafayel Dialogue:
+Rafayel: I have good news, bad news, and more good news. Which do you want to hear first?
+
+Next Dialogue:
+Main Character: Don't beat around the bush. Tell me in that order.
+Rafayel: The first piece of good news is that this is a lucky inn. The couples who stayed here got married when they went back.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I have good news, bad news, and more good news. Which do you want to hear first?
+Main Character: Don't beat around the bush. Tell me in that order.
+
+Rafayel Dialogue:
+Rafayel: The first piece of good news is that this is a lucky inn. The couples who stayed here got married when they went back.
+
+Next Dialogue:
+Main Character: How is this good news?! And the bad news?
+Rafayel: The bad news is- they have only one room left.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: The first piece of good news is that this is a lucky inn. The couples who stayed here got married when they went back.
+Main Character: How is this good news?! And the bad news?
+
+Rafayel Dialogue:
+Rafayel: The bad news is- they have only one room left.
+
+Next Dialogue:
+Main Character: I knew it... Are there other inns nearby?
+Rafayel: There's another one 50 km away. That is, if you fancy an overnight ride in the ox cart...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: The bad news is- they have only one room left.
+Main Character: I knew it... Are there other inns nearby?
+
+Rafayel Dialogue:
+Rafayel: There's another one 50 km away. That is, if you fancy an overnight ride in the ox cart...
+
+Next Dialogue:
+Main Character: Urgh, stop. What else?
+Rafayel: The next piece of good news is that we're not far from the giant rock formation. It's a walkable distance.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: There's another one 50 km away. That is, if you fancy an overnight ride in the ox cart...
+Main Character: Urgh, stop. What else?
+
+Rafayel Dialogue:
+Rafayel: The next piece of good news is that we're not far from the giant rock formation. It's a walkable distance.
+
+Next Dialogue:
+Rafayel: The boss said that after a rain like this, the evening scenery is to die for. I can't wait to see it.
+Main Character: Now? So the issue with the room...?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Urgh, stop. What else?
+Rafayel: The next piece of good news is that we're not far from the giant rock formation. It's a walkable distance.
+
+Rafayel Dialogue:
+Rafayel: The boss said that after a rain like this, the evening scenery is to die for. I can't wait to see it.
+
+Next Dialogue:
+Main Character: Now? So the issue with the room...?
+Rafayel: In such rural areas, there may not be another inn beyond the village, so I've taken the room.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: The boss said that after a rain like this, the evening scenery is to die for. I can't wait to see it.
+Main Character: Now? So the issue with the room...?
+
+Rafayel Dialogue:
+Rafayel: In such rural areas, there may not be another inn beyond the village, so I've taken the room.
+
+Next Dialogue:
+Rafayel: We can sort out the room issue later, but the scenery won't wait around for us. Let's go!
+Main Character: The wind is so strong. Will we get there before the grassland becomes a wasteland?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Now? So the issue with the room...?
+Rafayel: In such rural areas, there may not be another inn beyond the village, so I've taken the room.
+
+Rafayel Dialogue:
+Rafayel: We can sort out the room issue later, but the scenery won't wait around for us. Let's go!
+
+Next Dialogue:
+Main Character: The wind is so strong. Will we get there before the grassland becomes a wasteland?
+Rafayel: I see it. It's up ahead.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: We can sort out the room issue later, but the scenery won't wait around for us. Let's go!
+Main Character: The wind is so strong. Will we get there before the grassland becomes a wasteland?
+
+Rafayel Dialogue:
+Rafayel: I see it. It's up ahead.
+
+Next Dialogue:
+Main Character: Doesn't look like it. Have we come to the wrong place...?
+Rafayel: My memory is more dependable than anything. The rock formation is exactly the same as the jigsaw puzzle. Once we get closer, you'll see the resemblance.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I see it. It's up ahead.
+Main Character: Doesn't look like it. Have we come to the wrong place...?
+
+Rafayel Dialogue:
+Rafayel: My memory is more dependable than anything. The rock formation is exactly the same as the jigsaw puzzle. Once we get closer, you'll see the resemblance.
+
+Next Dialogue:
+Main Character: Something's off... Hold on, let me compare it to the photo.
+Rafayel: I can't believe you took a photo of the jigsaw!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: My memory is more dependable than anything. The rock formation is exactly the same as the jigsaw puzzle. Once we get closer, you'll see the resemblance.
+Main Character: Something's off... Hold on, let me compare it to the photo.
+
+Rafayel Dialogue:
+Rafayel: I can't believe you took a photo of the jigsaw!
+
+Next Dialogue:
+Main Character: Rafayel, this place is different from the photo!
+Rafayel: Hmm? Let me see...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I can't believe you took a photo of the jigsaw!
+Main Character: Rafayel, this place is different from the photo!
+
+Rafayel Dialogue:
+Rafayel: Hmm? Let me see...
+
+Next Dialogue:
+Rafayel: No way... It's really somewhere else...
+Main Character: We came to the wrong place! And we wasted 18 hours on the plane just to get here!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Rafayel, this place is different from the photo!
+Rafayel: Hmm? Let me see...
+
+Rafayel Dialogue:
+Rafayel: No way... It's really somewhere else...
+
+Next Dialogue:
+Main Character: We came to the wrong place! And we wasted 18 hours on the plane just to get here!
+Rafayel: Uhhh... Blame it on the rocks for looking the same...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: No way... It's really somewhere else...
+Main Character: We came to the wrong place! And we wasted 18 hours on the plane just to get here!
+
+Rafayel Dialogue:
+Rafayel: Uhhh... Blame it on the rocks for looking the same...
+
+Next Dialogue:
+Rafayel: But since we're here, the scenery is pretty nice, wouldn't you say so?
+Main Character: I don't know... I wasted my annual leave, my luggage got lost, and the destination was a mistake...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: We came to the wrong place! And we wasted 18 hours on the plane just to get here!
+Rafayel: Uhhh... Blame it on the rocks for looking the same...
+
+Rafayel Dialogue:
+Rafayel: But since we're here, the scenery is pretty nice, wouldn't you say so?
+
+Next Dialogue:
+Main Character: I don't know... I wasted my annual leave, my luggage got lost, and the destination was a mistake...
+Main Character: I don't want to talk right now...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I don't know... I wasted my annual leave, my luggage got lost, and the destination was a mistake...
+Main Character: I don't want to talk right now...
+
+Rafayel Dialogue:
+Rafayel: The weather forecast is pretty accurate at least. Rain in the evening... good thing I came prepared.
+
+Next Dialogue:
+Rafayel: Come here. I only brought one.
+Main Character: No, I'm exhausted. I just want some time to myself.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I don't want to talk right now...
+Rafayel: The weather forecast is pretty accurate at least. Rain in the evening... good thing I came prepared.
+
+Rafayel Dialogue:
+Rafayel: Come here. I only brought one.
+
+Next Dialogue:
+Main Character: No, I'm exhausted. I just want some time to myself.
+Rafayel: I'll come over there then.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Come here. I only brought one.
+Main Character: No, I'm exhausted. I just want some time to myself.
+
+Rafayel Dialogue:
+Rafayel: I'll come over there then.
+
+Next Dialogue:
+Rafayel: The rain's stopped. Are you just going to sit there and stare into space? Won't you look at me?
+Main Character: Even if I'm not looking at you, I know you're all wet. Why did you even bother bringing another umbrella?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: No, I'm exhausted. I just want some time to myself.
+Rafayel: I'll come over there then.
+
+Rafayel Dialogue:
+Rafayel: The rain's stopped. Are you just going to sit there and stare into space? Won't you look at me?
+
+Next Dialogue:
+Main Character: Even if I'm not looking at you, I know you're all wet. Why did you even bother bringing another umbrella?
+Rafayel: I brought it for you. I'm used to getting soaked in the rain.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: The rain's stopped. Are you just going to sit there and stare into space? Won't you look at me?
+Main Character: Even if I'm not looking at you, I know you're all wet. Why did you even bother bringing another umbrella?
+
+Rafayel Dialogue:
+Rafayel: I brought it for you. I'm used to getting soaked in the rain.
+
+Next Dialogue:
+Rafayel: Hey, stop looking down and set your gaze towards the horizon more. It's easier on your eyes.
+Main Character: ...Whoa. That's a beautiful rainbow!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Even if I'm not looking at you, I know you're all wet. Why did you even bother bringing another umbrella?
+Rafayel: I brought it for you. I'm used to getting soaked in the rain.
+
+Rafayel Dialogue:
+Rafayel: Hey, stop looking down and set your gaze towards the horizon more. It's easier on your eyes.
+
+Next Dialogue:
+Main Character: ...Whoa. That's a beautiful rainbow!
+Rafayel: Yeah, it's been there for a while. You were intent on ignoring me, so I had to admire it on my own.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Hey, stop looking down and set your gaze towards the horizon more. It's easier on your eyes.
+Main Character: ...Whoa. That's a beautiful rainbow!
+
+Rafayel Dialogue:
+Rafayel: Yeah, it's been there for a while. You were intent on ignoring me, so I had to admire it on my own.
+
+Next Dialogue:
+Rafayel: Don't you think this rainbow looks familiar?
+Main Character: The rainbow... If I remember correctly, there was a rainbow on the jigsaw puzzle as well?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...Whoa. That's a beautiful rainbow!
+Rafayel: Yeah, it's been there for a while. You were intent on ignoring me, so I had to admire it on my own.
+
+Rafayel Dialogue:
+Rafayel: Don't you think this rainbow looks familiar?
+
+Next Dialogue:
+Main Character: The rainbow... If I remember correctly, there was a rainbow on the jigsaw puzzle as well?
+Rafayel: Good memory. Actually, I took you out here to see the rainbow.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Don't you think this rainbow looks familiar?
+Main Character: The rainbow... If I remember correctly, there was a rainbow on the jigsaw puzzle as well?
+
+Rafayel Dialogue:
+Rafayel: Good memory. Actually, I took you out here to see the rainbow.
+
+Next Dialogue:
+Main Character: Not the giant rock formation?
+Rafayel: Did I say that?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Good memory. Actually, I took you out here to see the rainbow.
+Main Character: Not the giant rock formation?
+
+Rafayel Dialogue:
+Rafayel: Did I say that?
+
+Next Dialogue:
+Main Character: Trying to deny it, I see...
+Rafayel: I recall that day when we were solving the jigsaw puzzle. You said it would be great if you could see it for yourself.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Did I say that?
+Main Character: Trying to deny it, I see...
+
+Rafayel Dialogue:
+Rafayel: I recall that day when we were solving the jigsaw puzzle. You said it would be great if you could see it for yourself.
+
+Next Dialogue:
+Main Character: That was just a random thought. I forgot about it the moment it left my mouth...
+Rafayel: I know you're moved, but don't look at me like that. I have enough capacity in my brain to store what you say.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I recall that day when we were solving the jigsaw puzzle. You said it would be great if you could see it for yourself.
+Main Character: That was just a random thought. I forgot about it the moment it left my mouth...
+
+Rafayel Dialogue:
+Rafayel: I know you're moved, but don't look at me like that. I have enough capacity in my brain to store what you say.
+
+Next Dialogue:
+Main Character: ...My unhappiness just now wasn't aimed at you.
+Rafayel: It's okay, I understand how you feel.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I know you're moved, but don't look at me like that. I have enough capacity in my brain to store what you say.
+Main Character: ...My unhappiness just now wasn't aimed at you.
+
+Rafayel Dialogue:
+Rafayel: It's okay, I understand how you feel.
+
+Next Dialogue:
+Rafayel: Hiking through the wilderness to see a giant rock formation. That does make more sense than coming all this way only to see a rainbow.
+Rafayel: True, rainbows can be seen anywhere, but it's hard to see the entire arc in the city. Those skyscrapers always get in the way.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...My unhappiness just now wasn't aimed at you.
+Rafayel: It's okay, I understand how you feel.
+
+Rafayel Dialogue:
+Rafayel: Hiking through the wilderness to see a giant rock formation. That does make more sense than coming all this way only to see a rainbow.
+
+Next Dialogue:
+Rafayel: True, rainbows can be seen anywhere, but it's hard to see the entire arc in the city. Those skyscrapers always get in the way.
+Rafayel: It's the rainy season here, so use this opportunity to take in as much of it as you can.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's okay, I understand how you feel.
+Rafayel: Hiking through the wilderness to see a giant rock formation. That does make more sense than coming all this way only to see a rainbow.
+
+Rafayel Dialogue:
+Rafayel: True, rainbows can be seen anywhere, but it's hard to see the entire arc in the city. Those skyscrapers always get in the way.
+
+Next Dialogue:
+Rafayel: It's the rainy season here, so use this opportunity to take in as much of it as you can.
+Rafayel: It's raining again.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Hiking through the wilderness to see a giant rock formation. That does make more sense than coming all this way only to see a rainbow.
+Rafayel: True, rainbows can be seen anywhere, but it's hard to see the entire arc in the city. Those skyscrapers always get in the way.
+
+Rafayel Dialogue:
+Rafayel: It's the rainy season here, so use this opportunity to take in as much of it as you can.
+
+Next Dialogue:
+Rafayel: It's raining again.
+Rafayel: You asked me why I chose to invite you along on our way here. Well, I think—
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: True, rainbows can be seen anywhere, but it's hard to see the entire arc in the city. Those skyscrapers always get in the way.
+Rafayel: It's the rainy season here, so use this opportunity to take in as much of it as you can.
+
+Rafayel Dialogue:
+Rafayel: It's raining again.
+
+Next Dialogue:
+Rafayel: You asked me why I chose to invite you along on our way here. Well, I think—
+Rafayel: Sharing this view with someone less special to me would only render its beauty meaningless.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's the rainy season here, so use this opportunity to take in as much of it as you can.
+Rafayel: It's raining again.
+
+Rafayel Dialogue:
+Rafayel: You asked me why I chose to invite you along on our way here. Well, I think—
+
+Next Dialogue:
+Rafayel: Sharing this view with someone less special to me would only render its beauty meaningless.
+Rafayel: If it wasn't for you, I could never convince myself to get on a plane. My heart skipped a beat at every drop during turbulence.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's raining again.
+Rafayel: You asked me why I chose to invite you along on our way here. Well, I think—
+
+Rafayel Dialogue:
+Rafayel: Sharing this view with someone less special to me would only render its beauty meaningless.
+
+Next Dialogue:
+Rafayel: If it wasn't for you, I could never convince myself to get on a plane. My heart skipped a beat at every drop during turbulence.
+Rafayel: That being said, though, with you at my side... I suddenly realized it probably wasn't the turbulence that caused my heart to skip a beat.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You asked me why I chose to invite you along on our way here. Well, I think—
+Rafayel: Sharing this view with someone less special to me would only render its beauty meaningless.
+
+Rafayel Dialogue:
+Rafayel: If it wasn't for you, I could never convince myself to get on a plane. My heart skipped a beat at every drop during turbulence.
+
+Next Dialogue:
+Rafayel: That being said, though, with you at my side... I suddenly realized it probably wasn't the turbulence that caused my heart to skip a beat.
+Rafayel: After that, it no longer felt so unbearable.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Sharing this view with someone less special to me would only render its beauty meaningless.
+Rafayel: If it wasn't for you, I could never convince myself to get on a plane. My heart skipped a beat at every drop during turbulence.
+
+Rafayel Dialogue:
+Rafayel: That being said, though, with you at my side... I suddenly realized it probably wasn't the turbulence that caused my heart to skip a beat.
+
+Next Dialogue:
+Rafayel: After that, it no longer felt so unbearable.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: If it wasn't for you, I could never convince myself to get on a plane. My heart skipped a beat at every drop during turbulence.
+Rafayel: That being said, though, with you at my side... I suddenly realized it probably wasn't the turbulence that caused my heart to skip a beat.
+
+Rafayel Dialogue:
+Rafayel: After that, it no longer felt so unbearable.

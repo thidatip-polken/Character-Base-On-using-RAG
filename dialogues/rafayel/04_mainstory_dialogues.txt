@@ -1,0 +1,1949 @@
+Previous Dialogue:
+Main Character: What happened? Are you all right?
+Main Character: Rafayel?
+
+Rafayel Dialogue:
+Rafayel: Who are you?
+
+Next Dialogue:
+Main Character: What?!
+Rafayel: You are...?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Who are you?
+Main Character: What?!
+
+Rafayel Dialogue:
+Rafayel: You are...?
+
+Next Dialogue:
+Rafayel: Hmm... You do seem a bit familiar. Have we met before?
+Rafayel: It's been a while. I can't remember...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: What?!
+Rafayel: You are...?
+
+Rafayel Dialogue:
+Rafayel: Hmm... You do seem a bit familiar. Have we met before?
+
+Next Dialogue:
+Rafayel: It's been a while. I can't remember...
+Main Character: Rafayel, what are you talking about?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You are...?
+Rafayel: Hmm... You do seem a bit familiar. Have we met before?
+
+Rafayel Dialogue:
+Rafayel: It's been a while. I can't remember...
+
+Next Dialogue:
+Main Character: Rafayel, what are you talking about?
+Main Character: You don't remember me...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Rafayel, what are you talking about?
+Main Character: You don't remember me...
+
+Rafayel Dialogue:
+Rafayel: Did you want me to remember you? Let's talk then.
+
+Next Dialogue:
+Rafayel: I mean, after all, why else would you be here so late at night?
+Main Character: Didn't you call me to come visit you because you're injured?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You don't remember me...
+Rafayel: Did you want me to remember you? Let's talk then.
+
+Rafayel Dialogue:
+Rafayel: I mean, after all, why else would you be here so late at night?
+
+Next Dialogue:
+Main Character: Didn't you call me to come visit you because you're injured?
+Rafayel: Oh really? When did I call you?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I mean, after all, why else would you be here so late at night?
+Main Character: Didn't you call me to come visit you because you're injured?
+
+Rafayel Dialogue:
+Rafayel: Oh really? When did I call you?
+
+Next Dialogue:
+Main Character: This morning...
+Rafayel: This morning, huh...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Oh really? When did I call you?
+Main Character: This morning...
+
+Rafayel Dialogue:
+Rafayel: This morning, huh...
+
+Next Dialogue:
+Rafayel: So you do remember!
+Rafayel: Do you know what time it is?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: This morning...
+Rafayel: This morning, huh...
+
+Rafayel Dialogue:
+Rafayel: So you do remember!
+
+Next Dialogue:
+Rafayel: Do you know what time it is?
+Rafayel: It's been 800 years.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: This morning, huh...
+Rafayel: So you do remember!
+
+Rafayel Dialogue:
+Rafayel: Do you know what time it is?
+
+Next Dialogue:
+Rafayel: It's been 800 years.
+Rafayel: Jellyfishes are walkin' naked.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: So you do remember!
+Rafayel: Do you know what time it is?
+
+Rafayel Dialogue:
+Rafayel: It's been 800 years.
+
+Next Dialogue:
+Rafayel: Jellyfishes are walkin' naked.
+Rafayel: Sea turtles climb trees,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Do you know what time it is?
+Rafayel: It's been 800 years.
+
+Rafayel Dialogue:
+Rafayel: Jellyfishes are walkin' naked.
+
+Next Dialogue:
+Rafayel: Sea turtles climb trees,
+Rafayel: sharks are eatin' grass for free.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's been 800 years.
+Rafayel: Jellyfishes are walkin' naked.
+
+Rafayel Dialogue:
+Rafayel: Sea turtles climb trees,
+
+Next Dialogue:
+Rafayel: sharks are eatin' grass for free.
+Rafayel: And finally,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Jellyfishes are walkin' naked.
+Rafayel: Sea turtles climb trees,
+
+Rafayel Dialogue:
+Rafayel: sharks are eatin' grass for free.
+
+Next Dialogue:
+Rafayel: And finally,
+Rafayel: finally you remembered me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Sea turtles climb trees,
+Rafayel: sharks are eatin' grass for free.
+
+Rafayel Dialogue:
+Rafayel: And finally,
+
+Next Dialogue:
+Rafayel: finally you remembered me.
+Rafayel: Any later,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: sharks are eatin' grass for free.
+Rafayel: And finally,
+
+Rafayel Dialogue:
+Rafayel: finally you remembered me.
+
+Next Dialogue:
+Rafayel: Any later,
+Rafayel: and I would've been discharged from the hospital already!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: And finally,
+Rafayel: finally you remembered me.
+
+Rafayel Dialogue:
+Rafayel: Any later,
+
+Next Dialogue:
+Rafayel: and I would've been discharged from the hospital already!
+Main Character: You... I...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: finally you remembered me.
+Rafayel: Any later,
+
+Rafayel Dialogue:
+Rafayel: and I would've been discharged from the hospital already!
+
+Next Dialogue:
+Main Character: You... I...
+Main Character: An emergency mission came up!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You... I...
+Main Character: An emergency mission came up!
+
+Rafayel Dialogue:
+Rafayel: Another mission...
+
+Next Dialogue:
+Rafayel: Ah, I see! So I should assign you a mission next time I wanna see you.
+Rafayel: Didn't show up,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: An emergency mission came up!
+Rafayel: Another mission...
+
+Rafayel Dialogue:
+Rafayel: Ah, I see! So I should assign you a mission next time I wanna see you.
+
+Next Dialogue:
+Rafayel: Didn't show up,
+Rafayel: didn't answer your phone.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Another mission...
+Rafayel: Ah, I see! So I should assign you a mission next time I wanna see you.
+
+Rafayel Dialogue:
+Rafayel: Didn't show up,
+
+Next Dialogue:
+Rafayel: didn't answer your phone.
+Rafayel: I thought you were in trouble...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Ah, I see! So I should assign you a mission next time I wanna see you.
+Rafayel: Didn't show up,
+
+Rafayel Dialogue:
+Rafayel: didn't answer your phone.
+
+Next Dialogue:
+Rafayel: I thought you were in trouble...
+Rafayel: Sit down already! Stop looking like I'm picking on you or something.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Didn't show up,
+Rafayel: didn't answer your phone.
+
+Rafayel Dialogue:
+Rafayel: I thought you were in trouble...
+
+Next Dialogue:
+Rafayel: Sit down already! Stop looking like I'm picking on you or something.
+Main Character: You haven't answered my first question. Why are you in the hospital?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: didn't answer your phone.
+Rafayel: I thought you were in trouble...
+
+Rafayel Dialogue:
+Rafayel: Sit down already! Stop looking like I'm picking on you or something.
+
+Next Dialogue:
+Main Character: You haven't answered my first question. Why are you in the hospital?
+Rafayel: Uh...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Sit down already! Stop looking like I'm picking on you or something.
+Main Character: You haven't answered my first question. Why are you in the hospital?
+
+Rafayel Dialogue:
+Rafayel: Uh...
+
+Next Dialogue:
+Rafayel: Because I'm injured, of course!
+Rafayel: I'm gravely ill.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You haven't answered my first question. Why are you in the hospital?
+Rafayel: Uh...
+
+Rafayel Dialogue:
+Rafayel: Because I'm injured, of course!
+
+Next Dialogue:
+Rafayel: I'm gravely ill.
+Main Character: (He looks super energetic though...)
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Uh...
+Rafayel: Because I'm injured, of course!
+
+Rafayel Dialogue:
+Rafayel: I'm gravely ill.
+
+Next Dialogue:
+Main Character: (He looks super energetic though...)
+Main Character: Right, I brought you some fruit.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: (He looks super energetic though...)
+Main Character: Right, I brought you some fruit.
+
+Rafayel Dialogue:
+Rafayel: Awww,
+
+Next Dialogue:
+Rafayel: that's so sweet of you. I mean...
+Rafayel: ...Is that all you have? An apple?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Right, I brought you some fruit.
+Rafayel: Awww,
+
+Rafayel Dialogue:
+Rafayel: that's so sweet of you. I mean...
+
+Next Dialogue:
+Rafayel: ...Is that all you have? An apple?
+Main Character: It's already late, and there was only one fruit stall still open. This is the last apple...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Awww,
+Rafayel: that's so sweet of you. I mean...
+
+Rafayel Dialogue:
+Rafayel: ...Is that all you have? An apple?
+
+Next Dialogue:
+Main Character: It's already late, and there was only one fruit stall still open. This is the last apple...
+Rafayel: ...Fine,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...Is that all you have? An apple?
+Main Character: It's already late, and there was only one fruit stall still open. This is the last apple...
+
+Rafayel Dialogue:
+Rafayel: ...Fine,
+
+Next Dialogue:
+Rafayel: I've been craving an apple all day.
+Rafayel: You know me so well.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: It's already late, and there was only one fruit stall still open. This is the last apple...
+Rafayel: ...Fine,
+
+Rafayel Dialogue:
+Rafayel: I've been craving an apple all day.
+
+Next Dialogue:
+Rafayel: You know me so well.
+Rafayel: Knife's over there. Feed me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...Fine,
+Rafayel: I've been craving an apple all day.
+
+Rafayel Dialogue:
+Rafayel: You know me so well.
+
+Next Dialogue:
+Rafayel: Knife's over there. Feed me.
+Main Character: Is it good?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I've been craving an apple all day.
+Rafayel: You know me so well.
+
+Rafayel Dialogue:
+Rafayel: Knife's over there. Feed me.
+
+Next Dialogue:
+Main Character: Is it good?
+Rafayel: If it's from you, yeah.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Knife's over there. Feed me.
+Main Character: Is it good?
+
+Rafayel Dialogue:
+Rafayel: If it's from you, yeah.
+
+Next Dialogue:
+Main Character: Where exactly are you hurt again?
+Rafayel: My leg.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: If it's from you, yeah.
+Main Character: Where exactly are you hurt again?
+
+Rafayel Dialogue:
+Rafayel: My leg.
+
+Next Dialogue:
+Rafayel: It's in a cast.
+Main Character: Is it that bad? What did you do?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Where exactly are you hurt again?
+Rafayel: My leg.
+
+Rafayel Dialogue:
+Rafayel: It's in a cast.
+
+Next Dialogue:
+Main Character: Is it that bad? What did you do?
+Rafayel: ...Well,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's in a cast.
+Main Character: Is it that bad? What did you do?
+
+Rafayel Dialogue:
+Rafayel: ...Well,
+
+Next Dialogue:
+Rafayel: some kid was crossing the road without looking, so I pushed him out of the way.
+Rafayel: In the end, I fell and broke a bone.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Is it that bad? What did you do?
+Rafayel: ...Well,
+
+Rafayel Dialogue:
+Rafayel: some kid was crossing the road without looking, so I pushed him out of the way.
+
+Next Dialogue:
+Rafayel: In the end, I fell and broke a bone.
+Main Character: So... will you have to stay here for a while then?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...Well,
+Rafayel: some kid was crossing the road without looking, so I pushed him out of the way.
+
+Rafayel Dialogue:
+Rafayel: In the end, I fell and broke a bone.
+
+Next Dialogue:
+Main Character: So... will you have to stay here for a while then?
+Rafayel: Don't tell anyone else. Those tabloids are gonna praise me nonstop again if they find out.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: In the end, I fell and broke a bone.
+Main Character: So... will you have to stay here for a while then?
+
+Rafayel Dialogue:
+Rafayel: Don't tell anyone else. Those tabloids are gonna praise me nonstop again if they find out.
+
+Next Dialogue:
+Rafayel: I prefer to keep a low profile.
+Main Character: Really? Is that so...?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: So... will you have to stay here for a while then?
+Rafayel: Don't tell anyone else. Those tabloids are gonna praise me nonstop again if they find out.
+
+Rafayel Dialogue:
+Rafayel: I prefer to keep a low profile.
+
+Next Dialogue:
+Main Character: Really? Is that so...?
+Rafayel: On my honor.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I prefer to keep a low profile.
+Main Character: Really? Is that so...?
+
+Rafayel Dialogue:
+Rafayel: On my honor.
+
+Next Dialogue:
+Rafayel: Broken bones take time to heal,
+Rafayel: and even eating an apple takes effort.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Really? Is that so...?
+Rafayel: On my honor.
+
+Rafayel Dialogue:
+Rafayel: Broken bones take time to heal,
+
+Next Dialogue:
+Rafayel: and even eating an apple takes effort.
+Rafayel: Maybe you can smuggle me out of here?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: On my honor.
+Rafayel: Broken bones take time to heal,
+
+Rafayel Dialogue:
+Rafayel: and even eating an apple takes effort.
+
+Next Dialogue:
+Rafayel: Maybe you can smuggle me out of here?
+Rafayel: The nurses are so mean. I can't even leave this room.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Broken bones take time to heal,
+Rafayel: and even eating an apple takes effort.
+
+Rafayel Dialogue:
+Rafayel: Maybe you can smuggle me out of here?
+
+Next Dialogue:
+Rafayel: The nurses are so mean. I can't even leave this room.
+Main Character: Um, how am I supposed to smuggle someone out of a hospital?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: and even eating an apple takes effort.
+Rafayel: Maybe you can smuggle me out of here?
+
+Rafayel Dialogue:
+Rafayel: The nurses are so mean. I can't even leave this room.
+
+Next Dialogue:
+Main Character: Um, how am I supposed to smuggle someone out of a hospital?
+Main Character: Oh, okay.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Um, how am I supposed to smuggle someone out of a hospital?
+Main Character: Oh, okay.
+
+Rafayel Dialogue:
+Rafayel: Why didn't you knock? This is my private room.
+
+Next Dialogue:
+Rafayel: Ignore her. I'm the patient so what I say goes.
+Main Character: ...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Oh, okay.
+Rafayel: Why didn't you knock? This is my private room.
+
+Rafayel Dialogue:
+Rafayel: Ignore her. I'm the patient so what I say goes.
+
+Next Dialogue:
+Main Character: ...
+Rafayel: ...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Ignore her. I'm the patient so what I say goes.
+Main Character: ...
+
+Rafayel Dialogue:
+Rafayel: ...
+
+Next Dialogue:
+Rafayel: That's...
+Rafayel: That's nonsense.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: ...
+Rafayel: ...
+
+Rafayel Dialogue:
+Rafayel: That's...
+
+Next Dialogue:
+Rafayel: That's nonsense.
+Rafayel: You don't believe her, do you?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...
+Rafayel: That's...
+
+Rafayel Dialogue:
+Rafayel: That's nonsense.
+
+Next Dialogue:
+Rafayel: You don't believe her, do you?
+Rafayel: I don't wanna hear a word about this. I don't even wanna hear you speak.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: That's...
+Rafayel: That's nonsense.
+
+Rafayel Dialogue:
+Rafayel: You don't believe her, do you?
+
+Next Dialogue:
+Rafayel: I don't wanna hear a word about this. I don't even wanna hear you speak.
+Rafayel: Don't say it. Hold it in. Aaand swallow.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: That's nonsense.
+Rafayel: You don't believe her, do you?
+
+Rafayel Dialogue:
+Rafayel: I don't wanna hear a word about this. I don't even wanna hear you speak.
+
+Next Dialogue:
+Rafayel: Don't say it. Hold it in. Aaand swallow.
+Main Character: So that's how you got hurt!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You don't believe her, do you?
+Rafayel: I don't wanna hear a word about this. I don't even wanna hear you speak.
+
+Rafayel Dialogue:
+Rafayel: Don't say it. Hold it in. Aaand swallow.
+
+Next Dialogue:
+Main Character: So that's how you got hurt!
+Main Character: Your home must be quite a mess!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: So that's how you got hurt!
+Main Character: Your home must be quite a mess!
+
+Rafayel Dialogue:
+Rafayel: What's wrong with being messy?
+
+Next Dialogue:
+Rafayel: It's a known fact that
+Rafayel: only idiots put things in the correct spot.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Your home must be quite a mess!
+Rafayel: What's wrong with being messy?
+
+Rafayel Dialogue:
+Rafayel: It's a known fact that
+
+Next Dialogue:
+Rafayel: only idiots put things in the correct spot.
+Rafayel: On the other hand, chaos is a mark of intelligence.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: What's wrong with being messy?
+Rafayel: It's a known fact that
+
+Rafayel Dialogue:
+Rafayel: only idiots put things in the correct spot.
+
+Next Dialogue:
+Rafayel: On the other hand, chaos is a mark of intelligence.
+Rafayel: Ah... It's so noisy...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's a known fact that
+Rafayel: only idiots put things in the correct spot.
+
+Rafayel Dialogue:
+Rafayel: On the other hand, chaos is a mark of intelligence.
+
+Next Dialogue:
+Rafayel: Ah... It's so noisy...
+Main Character: Take your cast off and get some rest. I'm going to head home worry-free.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: only idiots put things in the correct spot.
+Rafayel: On the other hand, chaos is a mark of intelligence.
+
+Rafayel Dialogue:
+Rafayel: Ah... It's so noisy...
+
+Next Dialogue:
+Main Character: Take your cast off and get some rest. I'm going to head home worry-free.
+Rafayel: Visits are half an hour and you leave after only a few minutes?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Ah... It's so noisy...
+Main Character: Take your cast off and get some rest. I'm going to head home worry-free.
+
+Rafayel Dialogue:
+Rafayel: Visits are half an hour and you leave after only a few minutes?
+
+Next Dialogue:
+Main Character: You're doing just fine. I have work in the morning.
+Rafayel: Wait for me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Visits are half an hour and you leave after only a few minutes?
+Main Character: You're doing just fine. I have work in the morning.
+
+Rafayel Dialogue:
+Rafayel: Wait for me.
+
+Next Dialogue:
+Main Character: Huh?
+Rafayel: Let's go. What are we waiting for?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Wait for me.
+Main Character: Huh?
+
+Rafayel Dialogue:
+Rafayel: Let's go. What are we waiting for?
+
+Next Dialogue:
+Rafayel: Can't I be around you a while longer?
+Main Character: All right.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Huh?
+Rafayel: Let's go. What are we waiting for?
+
+Rafayel Dialogue:
+Rafayel: Can't I be around you a while longer?
+
+Next Dialogue:
+Main Character: All right.
+Rafayel: Walking with you in a moonlit garden is a wonderful experience. Fun, even.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Can't I be around you a while longer?
+Main Character: All right.
+
+Rafayel Dialogue:
+Rafayel: Walking with you in a moonlit garden is a wonderful experience. Fun, even.
+
+Next Dialogue:
+Main Character: We've only taken a few steps outside...
+Rafayel: Doesn't matter. My ankle's twisted, so I'm moving slowly. No rush.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Walking with you in a moonlit garden is a wonderful experience. Fun, even.
+Main Character: We've only taken a few steps outside...
+
+Rafayel Dialogue:
+Rafayel: Doesn't matter. My ankle's twisted, so I'm moving slowly. No rush.
+
+Next Dialogue:
+Main Character: I see you're still in a good mood...
+Rafayel: Hush, don't talk.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Doesn't matter. My ankle's twisted, so I'm moving slowly. No rush.
+Main Character: I see you're still in a good mood...
+
+Rafayel Dialogue:
+Rafayel: Hush, don't talk.
+
+Next Dialogue:
+Rafayel: I think I hear... something screaming...
+Main Character: Really? How did I not notice...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I see you're still in a good mood...
+Rafayel: Hush, don't talk.
+
+Rafayel Dialogue:
+Rafayel: I think I hear... something screaming...
+
+Next Dialogue:
+Main Character: Really? How did I not notice...
+Rafayel: Sometimes, I envy you.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I think I hear... something screaming...
+Main Character: Really? How did I not notice...
+
+Rafayel Dialogue:
+Rafayel: Sometimes, I envy you.
+
+Next Dialogue:
+Rafayel: Oblivious and thick-skinned. You must be living a happy life.
+Main Character: You!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Really? How did I not notice...
+Rafayel: Sometimes, I envy you.
+
+Rafayel Dialogue:
+Rafayel: Oblivious and thick-skinned. You must be living a happy life.
+
+Next Dialogue:
+Main Character: You!
+Rafayel: Shush,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Oblivious and thick-skinned. You must be living a happy life.
+Main Character: You!
+
+Rafayel Dialogue:
+Rafayel: Shush,
+
+Next Dialogue:
+Rafayel: I really did hear something.
+Main Character: Is there a Wanderer in the hospital?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You!
+Rafayel: Shush,
+
+Rafayel Dialogue:
+Rafayel: I really did hear something.
+
+Next Dialogue:
+Main Character: Is there a Wanderer in the hospital?
+Rafayel: Yeah,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I really did hear something.
+Main Character: Is there a Wanderer in the hospital?
+
+Rafayel Dialogue:
+Rafayel: Yeah,
+
+Next Dialogue:
+Rafayel: a Wanderer.
+Rafayel: It could be that.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Is there a Wanderer in the hospital?
+Rafayel: Yeah,
+
+Rafayel Dialogue:
+Rafayel: a Wanderer.
+
+Next Dialogue:
+Rafayel: It could be that.
+Rafayel: Looks like it came from over there.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Yeah,
+Rafayel: a Wanderer.
+
+Rafayel Dialogue:
+Rafayel: It could be that.
+
+Next Dialogue:
+Rafayel: Looks like it came from over there.
+Rafayel: Come on,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: a Wanderer.
+Rafayel: It could be that.
+
+Rafayel Dialogue:
+Rafayel: Looks like it came from over there.
+
+Next Dialogue:
+Rafayel: Come on,
+Rafayel: why don't we check it out?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It could be that.
+Rafayel: Looks like it came from over there.
+
+Rafayel Dialogue:
+Rafayel: Come on,
+
+Next Dialogue:
+Rafayel: why don't we check it out?
+Main Character: The way I see it, you just don't want to go back to your room...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Looks like it came from over there.
+Rafayel: Come on,
+
+Rafayel Dialogue:
+Rafayel: why don't we check it out?
+
+Next Dialogue:
+Main Character: The way I see it, you just don't want to go back to your room...
+Rafayel: Yep, the sound came from over here.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: why don't we check it out?
+Main Character: The way I see it, you just don't want to go back to your room...
+
+Rafayel Dialogue:
+Rafayel: Yep, the sound came from over here.
+
+Next Dialogue:
+Rafayel: This pool changes out its water every night, so it's pretty clean. The fish are...
+Rafayel: Super fat. Maybe the cafeteria keeps them for food...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: The way I see it, you just don't want to go back to your room...
+Rafayel: Yep, the sound came from over here.
+
+Rafayel Dialogue:
+Rafayel: This pool changes out its water every night, so it's pretty clean. The fish are...
+
+Next Dialogue:
+Rafayel: Super fat. Maybe the cafeteria keeps them for food...
+Main Character: Look! A fish is stuck over there.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Yep, the sound came from over here.
+Rafayel: This pool changes out its water every night, so it's pretty clean. The fish are...
+
+Rafayel Dialogue:
+Rafayel: Super fat. Maybe the cafeteria keeps them for food...
+
+Next Dialogue:
+Main Character: Look! A fish is stuck over there.
+Main Character: Oh, the noise was just a clogged pipe...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Look! A fish is stuck over there.
+Main Character: Oh, the noise was just a clogged pipe...
+
+Rafayel Dialogue:
+Rafayel: Tail's caught.
+
+Next Dialogue:
+Main Character: Got it!
+Rafayel: Your willingness to rescue strays? It's very worrisome.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Tail's caught.
+Main Character: Got it!
+
+Rafayel Dialogue:
+Rafayel: Your willingness to rescue strays? It's very worrisome.
+
+Next Dialogue:
+Main Character: What's so worrying about it?
+Rafayel: One can never know what an innocent act of kindness
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Your willingness to rescue strays? It's very worrisome.
+Main Character: What's so worrying about it?
+
+Rafayel Dialogue:
+Rafayel: One can never know what an innocent act of kindness
+
+Next Dialogue:
+Rafayel: means to someone.
+Main Character: What do you mean...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: What's so worrying about it?
+Rafayel: One can never know what an innocent act of kindness
+
+Rafayel Dialogue:
+Rafayel: means to someone.
+
+Next Dialogue:
+Main Character: What do you mean...
+Rafayel: Since you have
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: means to someone.
+Main Character: What do you mean...
+
+Rafayel Dialogue:
+Rafayel: Since you have
+
+Next Dialogue:
+Rafayel: a naive perspective on life,
+Rafayel: allow me to tell you a story.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: What do you mean...
+Rafayel: Since you have
+
+Rafayel Dialogue:
+Rafayel: a naive perspective on life,
+
+Next Dialogue:
+Rafayel: allow me to tell you a story.
+Rafayel: Listen closely.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Since you have
+Rafayel: a naive perspective on life,
+
+Rafayel Dialogue:
+Rafayel: allow me to tell you a story.
+
+Next Dialogue:
+Rafayel: Listen closely.
+Rafayel: Then decide whether or not to spread kindness wherever you go.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: a naive perspective on life,
+Rafayel: allow me to tell you a story.
+
+Rafayel Dialogue:
+Rafayel: Listen closely.
+
+Next Dialogue:
+Rafayel: Then decide whether or not to spread kindness wherever you go.
+Rafayel: A long, long time ago, I... I mean a friend of mine.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: allow me to tell you a story.
+Rafayel: Listen closely.
+
+Rafayel Dialogue:
+Rafayel: Then decide whether or not to spread kindness wherever you go.
+
+Next Dialogue:
+Rafayel: A long, long time ago, I... I mean a friend of mine.
+Main Character: You have friends?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Listen closely.
+Rafayel: Then decide whether or not to spread kindness wherever you go.
+
+Rafayel Dialogue:
+Rafayel: A long, long time ago, I... I mean a friend of mine.
+
+Next Dialogue:
+Main Character: You have friends?
+Rafayel: Why wouldn't I?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: A long, long time ago, I... I mean a friend of mine.
+Main Character: You have friends?
+
+Rafayel Dialogue:
+Rafayel: Why wouldn't I?
+
+Next Dialogue:
+Rafayel: Don't interrupt me again.
+Rafayel: This friend of mine...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: You have friends?
+Rafayel: Why wouldn't I?
+
+Rafayel Dialogue:
+Rafayel: Don't interrupt me again.
+
+Next Dialogue:
+Rafayel: This friend of mine...
+Rafayel: Lives in the deep sea.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Why wouldn't I?
+Rafayel: Don't interrupt me again.
+
+Rafayel Dialogue:
+Rafayel: This friend of mine...
+
+Next Dialogue:
+Rafayel: Lives in the deep sea.
+Rafayel: And down there...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Don't interrupt me again.
+Rafayel: This friend of mine...
+
+Rafayel Dialogue:
+Rafayel: Lives in the deep sea.
+
+Next Dialogue:
+Rafayel: And down there...
+Rafayel: there isn't very much,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: This friend of mine...
+Rafayel: Lives in the deep sea.
+
+Rafayel Dialogue:
+Rafayel: And down there...
+
+Next Dialogue:
+Rafayel: there isn't very much,
+Rafayel: you know.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Lives in the deep sea.
+Rafayel: And down there...
+
+Rafayel Dialogue:
+Rafayel: there isn't very much,
+
+Next Dialogue:
+Rafayel: you know.
+Rafayel: Even the fish are ugly.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: And down there...
+Rafayel: there isn't very much,
+
+Rafayel Dialogue:
+Rafayel: you know.
+
+Next Dialogue:
+Rafayel: Even the fish are ugly.
+Rafayel: After a while,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: there isn't very much,
+Rafayel: you know.
+
+Rafayel Dialogue:
+Rafayel: Even the fish are ugly.
+
+Next Dialogue:
+Rafayel: After a while,
+Rafayel: he wanted to go to the surface and look around.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: you know.
+Rafayel: Even the fish are ugly.
+
+Rafayel Dialogue:
+Rafayel: After a while,
+
+Next Dialogue:
+Rafayel: he wanted to go to the surface and look around.
+Rafayel: One day,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Even the fish are ugly.
+Rafayel: After a while,
+
+Rafayel Dialogue:
+Rafayel: he wanted to go to the surface and look around.
+
+Next Dialogue:
+Rafayel: One day,
+Rafayel: he did just that.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: After a while,
+Rafayel: he wanted to go to the surface and look around.
+
+Rafayel Dialogue:
+Rafayel: One day,
+
+Next Dialogue:
+Rafayel: he did just that.
+Rafayel: But then,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: he wanted to go to the surface and look around.
+Rafayel: One day,
+
+Rafayel Dialogue:
+Rafayel: he did just that.
+
+Next Dialogue:
+Rafayel: But then,
+Rafayel: he found the surface to be as equally boring as the sea,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: One day,
+Rafayel: he did just that.
+
+Rafayel Dialogue:
+Rafayel: But then,
+
+Next Dialogue:
+Rafayel: he found the surface to be as equally boring as the sea,
+Rafayel: so he went back home.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: he did just that.
+Rafayel: But then,
+
+Rafayel Dialogue:
+Rafayel: he found the surface to be as equally boring as the sea,
+
+Next Dialogue:
+Rafayel: so he went back home.
+Main Character: I'm feeling a little bored myself...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: But then,
+Rafayel: he found the surface to be as equally boring as the sea,
+
+Rafayel Dialogue:
+Rafayel: so he went back home.
+
+Next Dialogue:
+Main Character: I'm feeling a little bored myself...
+Rafayel: A little patience, please? I'm not even at the good part yet.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: so he went back home.
+Main Character: I'm feeling a little bored myself...
+
+Rafayel Dialogue:
+Rafayel: A little patience, please? I'm not even at the good part yet.
+
+Next Dialogue:
+Rafayel: So, anyway,
+Rafayel: on the way back,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I'm feeling a little bored myself...
+Rafayel: A little patience, please? I'm not even at the good part yet.
+
+Rafayel Dialogue:
+Rafayel: So, anyway,
+
+Next Dialogue:
+Rafayel: on the way back,
+Rafayel: he got stranded on a beach.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: A little patience, please? I'm not even at the good part yet.
+Rafayel: So, anyway,
+
+Rafayel Dialogue:
+Rafayel: on the way back,
+
+Next Dialogue:
+Rafayel: he got stranded on a beach.
+Main Character: Stranded?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: So, anyway,
+Rafayel: on the way back,
+
+Rafayel Dialogue:
+Rafayel: he got stranded on a beach.
+
+Next Dialogue:
+Main Character: Stranded?
+Rafayel: Just like the fish from earlier.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: he got stranded on a beach.
+Main Character: Stranded?
+
+Rafayel Dialogue:
+Rafayel: Just like the fish from earlier.
+
+Next Dialogue:
+Rafayel: No way out,
+Rafayel: no hope,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Stranded?
+Rafayel: Just like the fish from earlier.
+
+Rafayel Dialogue:
+Rafayel: No way out,
+
+Next Dialogue:
+Rafayel: no hope,
+Rafayel: and waiting to die.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Just like the fish from earlier.
+Rafayel: No way out,
+
+Rafayel Dialogue:
+Rafayel: no hope,
+
+Next Dialogue:
+Rafayel: and waiting to die.
+Main Character: And then?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: No way out,
+Rafayel: no hope,
+
+Rafayel Dialogue:
+Rafayel: and waiting to die.
+
+Next Dialogue:
+Main Character: And then?
+Rafayel: He met someone who did things without asking, like you,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: and waiting to die.
+Main Character: And then?
+
+Rafayel Dialogue:
+Rafayel: He met someone who did things without asking, like you,
+
+Next Dialogue:
+Rafayel: and she rescued him.
+Rafayel: Of course,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: And then?
+Rafayel: He met someone who did things without asking, like you,
+
+Rafayel Dialogue:
+Rafayel: and she rescued him.
+
+Next Dialogue:
+Rafayel: Of course,
+Rafayel: the only reason she rescued him
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: He met someone who did things without asking, like you,
+Rafayel: and she rescued him.
+
+Rafayel Dialogue:
+Rafayel: Of course,
+
+Next Dialogue:
+Rafayel: the only reason she rescued him
+Rafayel: was because of his dashingly good looks.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: and she rescued him.
+Rafayel: Of course,
+
+Rafayel Dialogue:
+Rafayel: the only reason she rescued him
+
+Next Dialogue:
+Rafayel: was because of his dashingly good looks.
+Rafayel: Hmm, he was still very handsome, even when he was half dead.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Of course,
+Rafayel: the only reason she rescued him
+
+Rafayel Dialogue:
+Rafayel: was because of his dashingly good looks.
+
+Next Dialogue:
+Rafayel: Hmm, he was still very handsome, even when he was half dead.
+Rafayel: Unwittingly, the girl was drawn to him.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: the only reason she rescued him
+Rafayel: was because of his dashingly good looks.
+
+Rafayel Dialogue:
+Rafayel: Hmm, he was still very handsome, even when he was half dead.
+
+Next Dialogue:
+Rafayel: Unwittingly, the girl was drawn to him.
+Rafayel: Actually, we can say his otherworldly charm did him a few favors.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: was because of his dashingly good looks.
+Rafayel: Hmm, he was still very handsome, even when he was half dead.
+
+Rafayel Dialogue:
+Rafayel: Unwittingly, the girl was drawn to him.
+
+Next Dialogue:
+Rafayel: Actually, we can say his otherworldly charm did him a few favors.
+Main Character: But your friend was rescued. Isn't that a good thing?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Hmm, he was still very handsome, even when he was half dead.
+Rafayel: Unwittingly, the girl was drawn to him.
+
+Rafayel Dialogue:
+Rafayel: Actually, we can say his otherworldly charm did him a few favors.
+
+Next Dialogue:
+Main Character: But your friend was rescued. Isn't that a good thing?
+Rafayel: ...Rescued?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Actually, we can say his otherworldly charm did him a few favors.
+Main Character: But your friend was rescued. Isn't that a good thing?
+
+Rafayel Dialogue:
+Rafayel: ...Rescued?
+
+Next Dialogue:
+Rafayel: It was the beginning of a tragedy.
+Rafayel: After that,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: But your friend was rescued. Isn't that a good thing?
+Rafayel: ...Rescued?
+
+Rafayel Dialogue:
+Rafayel: It was the beginning of a tragedy.
+
+Next Dialogue:
+Rafayel: After that,
+Rafayel: the girl forgot all about him
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...Rescued?
+Rafayel: It was the beginning of a tragedy.
+
+Rafayel Dialogue:
+Rafayel: After that,
+
+Next Dialogue:
+Rafayel: the girl forgot all about him
+Rafayel: in the blink of an eye.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It was the beginning of a tragedy.
+Rafayel: After that,
+
+Rafayel Dialogue:
+Rafayel: the girl forgot all about him
+
+Next Dialogue:
+Rafayel: in the blink of an eye.
+Rafayel: What a fish brain...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: After that,
+Rafayel: the girl forgot all about him
+
+Rafayel Dialogue:
+Rafayel: in the blink of an eye.
+
+Next Dialogue:
+Rafayel: What a fish brain...
+Rafayel: But for him,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: the girl forgot all about him
+Rafayel: in the blink of an eye.
+
+Rafayel Dialogue:
+Rafayel: What a fish brain...
+
+Next Dialogue:
+Rafayel: But for him,
+Rafayel: from that moment forward,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: in the blink of an eye.
+Rafayel: What a fish brain...
+
+Rafayel Dialogue:
+Rafayel: But for him,
+
+Next Dialogue:
+Rafayel: from that moment forward,
+Rafayel: the deep sea became a prison.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: What a fish brain...
+Rafayel: But for him,
+
+Rafayel Dialogue:
+Rafayel: from that moment forward,
+
+Next Dialogue:
+Rafayel: the deep sea became a prison.
+Main Character: Because he fell in love with the girl who saved him?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: But for him,
+Rafayel: from that moment forward,
+
+Rafayel Dialogue:
+Rafayel: the deep sea became a prison.
+
+Next Dialogue:
+Main Character: Because he fell in love with the girl who saved him?
+Rafayel: Love?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: the deep sea became a prison.
+Main Character: Because he fell in love with the girl who saved him?
+
+Rafayel Dialogue:
+Rafayel: Love?
+
+Next Dialogue:
+Rafayel: Yeah,
+Rafayel: love.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Because he fell in love with the girl who saved him?
+Rafayel: Love?
+
+Rafayel Dialogue:
+Rafayel: Yeah,
+
+Next Dialogue:
+Rafayel: love.
+Rafayel: Now do you understand how dangerous the world is?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Love?
+Rafayel: Yeah,
+
+Rafayel Dialogue:
+Rafayel: love.
+
+Next Dialogue:
+Rafayel: Now do you understand how dangerous the world is?
+Main Character: This friend is you, isn't it?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Yeah,
+Rafayel: love.
+
+Rafayel Dialogue:
+Rafayel: Now do you understand how dangerous the world is?
+
+Next Dialogue:
+Main Character: This friend is you, isn't it?
+Rafayel: Well, what if it is me?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Now do you understand how dangerous the world is?
+Main Character: This friend is you, isn't it?
+
+Rafayel Dialogue:
+Rafayel: Well, what if it is me?
+
+Next Dialogue:
+Rafayel: I waited for her for a long,
+Rafayel: long time,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: This friend is you, isn't it?
+Rafayel: Well, what if it is me?
+
+Rafayel Dialogue:
+Rafayel: I waited for her for a long,
+
+Next Dialogue:
+Rafayel: long time,
+Rafayel: and she never appeared again.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Well, what if it is me?
+Rafayel: I waited for her for a long,
+
+Rafayel Dialogue:
+Rafayel: long time,
+
+Next Dialogue:
+Rafayel: and she never appeared again.
+Rafayel: And like I said, I hate waiting. You made me wait an entire day.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: I waited for her for a long,
+Rafayel: long time,
+
+Rafayel Dialogue:
+Rafayel: and she never appeared again.
+
+Next Dialogue:
+Rafayel: And like I said, I hate waiting. You made me wait an entire day.
+Main Character: Oh, I'm sorry...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: long time,
+Rafayel: and she never appeared again.
+
+Rafayel Dialogue:
+Rafayel: And like I said, I hate waiting. You made me wait an entire day.
+
+Next Dialogue:
+Main Character: Oh, I'm sorry...
+Rafayel: An apology?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: And like I said, I hate waiting. You made me wait an entire day.
+Main Character: Oh, I'm sorry...
+
+Rafayel Dialogue:
+Rafayel: An apology?
+
+Next Dialogue:
+Rafayel: Promise me that you won't make me wait for you again.
+Main Character: But for me, work always comes first.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Oh, I'm sorry...
+Rafayel: An apology?
+
+Rafayel Dialogue:
+Rafayel: Promise me that you won't make me wait for you again.
+
+Next Dialogue:
+Main Character: But for me, work always comes first.
+Rafayel: ...I'm not asking you to show up on the dot.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Promise me that you won't make me wait for you again.
+Main Character: But for me, work always comes first.
+
+Rafayel Dialogue:
+Rafayel: ...I'm not asking you to show up on the dot.
+
+Next Dialogue:
+Rafayel: Just, wherever you are, whatever you get into, you tell me as soon as you can.
+Rafayel: Don't just disappear ever again, okay?
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: But for me, work always comes first.
+Rafayel: ...I'm not asking you to show up on the dot.
+
+Rafayel Dialogue:
+Rafayel: Just, wherever you are, whatever you get into, you tell me as soon as you can.
+
+Next Dialogue:
+Rafayel: Don't just disappear ever again, okay?
+Main Character: All right... I understand.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: ...I'm not asking you to show up on the dot.
+Rafayel: Just, wherever you are, whatever you get into, you tell me as soon as you can.
+
+Rafayel Dialogue:
+Rafayel: Don't just disappear ever again, okay?
+
+Next Dialogue:
+Main Character: All right... I understand.
+Rafayel: Swear it.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Don't just disappear ever again, okay?
+Main Character: All right... I understand.
+
+Rafayel Dialogue:
+Rafayel: Swear it.
+
+Next Dialogue:
+Main Character: I swear it.
+Rafayel: No,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Swear it.
+Main Character: I swear it.
+
+Rafayel Dialogue:
+Rafayel: No,
+
+Next Dialogue:
+Rafayel: your human vows are never reliable.
+Rafayel: We do it my way.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I swear it.
+Rafayel: No,
+
+Rafayel Dialogue:
+Rafayel: your human vows are never reliable.
+
+Next Dialogue:
+Rafayel: We do it my way.
+Rafayel: Close your eyes,
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: No,
+Rafayel: your human vows are never reliable.
+
+Rafayel Dialogue:
+Rafayel: We do it my way.
+
+Next Dialogue:
+Rafayel: Close your eyes,
+Rafayel: repeat after me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: your human vows are never reliable.
+Rafayel: We do it my way.
+
+Rafayel Dialogue:
+Rafayel: Close your eyes,
+
+Next Dialogue:
+Rafayel: repeat after me.
+Rafayel: "I will never make Rafayel wait for me."
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: We do it my way.
+Rafayel: Close your eyes,
+
+Rafayel Dialogue:
+Rafayel: repeat after me.
+
+Next Dialogue:
+Rafayel: "I will never make Rafayel wait for me."
+Main Character: I...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Close your eyes,
+Rafayel: repeat after me.
+
+Rafayel Dialogue:
+Rafayel: "I will never make Rafayel wait for me."
+
+Next Dialogue:
+Main Character: I...
+Main Character: I will never make Rafayel wait for me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: I...
+Main Character: I will never make Rafayel wait for me.
+
+Rafayel Dialogue:
+Rafayel: Good.
+
+Next Dialogue:
+Main Character: Where did the fish come from?
+Rafayel: This is a ceremonial vow of my people. Fish are the emissaries of the ocean.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Good.
+Main Character: Where did the fish come from?
+
+Rafayel Dialogue:
+Rafayel: This is a ceremonial vow of my people. Fish are the emissaries of the ocean.
+
+Next Dialogue:
+Rafayel: If the vow has the blessing of the ocean, then a fish will appear between our palms.
+Rafayel: Don't forget what you said today.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Where did the fish come from?
+Rafayel: This is a ceremonial vow of my people. Fish are the emissaries of the ocean.
+
+Rafayel Dialogue:
+Rafayel: If the vow has the blessing of the ocean, then a fish will appear between our palms.
+
+Next Dialogue:
+Rafayel: Don't forget what you said today.
+Rafayel: Come ooon, I'm just trying to escort her home...
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: This is a ceremonial vow of my people. Fish are the emissaries of the ocean.
+Rafayel: If the vow has the blessing of the ocean, then a fish will appear between our palms.
+
+Rafayel Dialogue:
+Rafayel: Don't forget what you said today.
+
+Next Dialogue:
+Rafayel: Come ooon, I'm just trying to escort her home...
+Rafayel: It's getting late.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: If the vow has the blessing of the ocean, then a fish will appear between our palms.
+Rafayel: Don't forget what you said today.
+
+Rafayel Dialogue:
+Rafayel: Come ooon, I'm just trying to escort her home...
+
+Next Dialogue:
+Rafayel: It's getting late.
+Rafayel: You should probably head back.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Don't forget what you said today.
+Rafayel: Come ooon, I'm just trying to escort her home...
+
+Rafayel Dialogue:
+Rafayel: It's getting late.
+
+Next Dialogue:
+Rafayel: You should probably head back.
+Rafayel: I get out in two days. Pick me up.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: Come ooon, I'm just trying to escort her home...
+Rafayel: It's getting late.
+
+Rafayel Dialogue:
+Rafayel: You should probably head back.
+
+Next Dialogue:
+Rafayel: I get out in two days. Pick me up.
+Rafayel: And remember, don't be late again!!
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: It's getting late.
+Rafayel: You should probably head back.
+
+Rafayel Dialogue:
+Rafayel: I get out in two days. Pick me up.
+
+Next Dialogue:
+Rafayel: And remember, don't be late again!!
+Main Character: Got it.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: You should probably head back.
+Rafayel: I get out in two days. Pick me up.
+
+Rafayel Dialogue:
+Rafayel: And remember, don't be late again!!
+
+Next Dialogue:
+Main Character: Got it.
+Rafayel: Also... stop disappearing on me.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Rafayel: And remember, don't be late again!!
+Main Character: Got it.
+
+Rafayel Dialogue:
+Rafayel: Also... stop disappearing on me.
+
+Next Dialogue:
+Rafayel: Because... I don't wanna feel anxious and frustrated again.
+|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|
+
+Previous Dialogue:
+Main Character: Got it.
+Rafayel: Also... stop disappearing on me.
+
+Rafayel Dialogue:
+Rafayel: Because... I don't wanna feel anxious and frustrated again.
