@@ -1,0 +1,8 @@
+pathlib
+json
+langchain 
+langchain-community 
+langchain-core 
+langchain-ollama 
+langchain-text-splitters 
+faiss-cpu

@@ -1,0 +1,66 @@
+ROOT: "."
+
+DATA_FOLDER: "./data"
+OUTPUT_FOLDER: "./json_output"
+
+LIST_OF_CHARACTER:
+  - xavier
+  - zayne
+  - rafayel
+  - sylus
+  - caleb
+  - mc
+
+TARGET_CHARACTER: "rafayel"
+
+CHARACTER_SYNONYMS:
+  xavier:
+    - "xavier"
+    - "เซเวียร์"
+    - "เซเวีย"
+    - "xav"
+
+  zayne:
+    - "zayne"
+    - "เซน"
+
+  rafayel:
+    - "rafayel"
+    - "ราฟาเอล"
+    - "ราฟ"
+    - "raf"
+    - "rafael"
+
+  sylus:
+    - "sylus"
+    - "ไซลัส"
+    - "ไซ"
+
+  caleb:
+    - "caleb"
+    - "คาเลบ"
+
+  mc:
+    - "Main Character"
+    - "MC"
+    - "mc"
+    - "ผู้เล่น"
+
+DATA_LIST_OF_CHARACTER:
+  rafayel:
+    - "./data/rafayel_scripts"
+
+DIALOGUE_FOLDER: "./dialogues"
+
+MAX_CONTEXT_LENGTH: 100
+
+DIALOGUES_JOINER: "\n|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|_/-|\n\n"
+
+EMBEDDING:
+  model_name: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  persist_directory: "./chroma_rafayel_db_minilm"
+  collection_name: "rafayel_collection_minilm"
+
+LLM:
+  ollama_base_url: "http://localhost:11434"
+  model_name: "qwen3"
