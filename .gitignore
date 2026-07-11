@@ -16,6 +16,6 @@ __pycache__/
 chroma_*/
 
 
-# Ignore dataset folders
-data/
-dialogues/
+# Ignore files inside dataset folders
+data/*
+dialogues/*
