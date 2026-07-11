@@ -18,4 +18,7 @@ chroma_*/
 
 # Ignore files inside dataset folders
 data/*
+!data/.gitkeep
+
 dialogues/*
+!dialogues/.gitkeep
