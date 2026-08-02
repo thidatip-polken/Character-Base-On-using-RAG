@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600;700&family=Nunito+Sans:wght@300;400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #F6EEE3;
+  --color-paper: #FBF6EF;
+  --color-paperDim: #EFE6D8;
+
+  --color-ink: #362F41;
+  --color-inkSoft: #7A7186;
+
+  --color-blush: #F3C7CE;
+  --color-blushDeep: #E39CAA;
+
+  --color-lilac: #B7AFC9;
+  --color-lilacSoft: #E2DCE6;
+  --color-lilacDeep: #7C7395;
+
+  --color-gold: #E3B94D;
+
+  --font-display: "Fraunces", serif;
+  --font-body: "Nunito Sans", sans-serif;
+}
+:root {
+  --font-display: "Fraunces", serif;
+  --font-body: "Nunito Sans", sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+html,
+body {
+  background: #f6eee3;
+  color: #362f41;
+  margin: 0;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #d9cfc0 transparent;
+}
+*::-webkit-scrollbar {
+  width: 6px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #d9cfc0;
+  border-radius: 999px;
+}
+
+.glass {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.75),
+    rgba(255, 255, 255, 0.45)
+  );
+  border: 1px solid rgba(54, 47, 65, 0.08);
+  backdrop-filter: blur(10px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #e3b94d;
+  outline-offset: 3px;
+  border-radius: 6px;
+}
