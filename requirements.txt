@@ -1,16 +1,20 @@
 fastapi
 uvicorn[standard]
+pydantic
 
 langchain
-langchain-core
 langchain-community
+langchain-core
+langchain-ollama
 langchain-text-splitters
 langchain-chroma
 langchain-huggingface
-langchain-ollama
 
-chromadb
-sentence-transformers
 faiss-cpu
+chromadb
 
+sentence-transformers
+huggingface-hub
+
+python-dotenv
 pyyaml
