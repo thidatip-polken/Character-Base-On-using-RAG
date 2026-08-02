@@ -61,10 +61,7 @@ export default function LoginPage() {
                 <input
                   type="text"
                   value={username}
-                  onChange={(e) =>
-                    
-                    (e.target.value)
-                  }
+                 onChange={(e) => setUsername(e.target.value)}
                   placeholder="Username"
                   className="w-full bg-transparent outline-none"
                 />
