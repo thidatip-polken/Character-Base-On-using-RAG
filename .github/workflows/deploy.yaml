@@ -40,7 +40,7 @@ jobs:
       - name: Build project
         run: npm run build
         env:
-          VITE_API_URL: http://localhost:8000
+          VITE_API_URL: https://character-rag-api.onrender.com
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
