@@ -7,4 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: "/Character-Base-On-using-RAG/",
+
 });
