@@ -29,7 +29,6 @@ def resolve_path(path_value: str) -> Path:
     p = Path(path_value)
     return p if p.is_absolute() else PROJECT_ROOT / p
 
-
 config = load_config()
 
 EMBEDDING_MODEL = config.get("EMBEDDING", {}).get(

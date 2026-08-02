@@ -10,6 +10,7 @@ router = APIRouter(
 
 
 class ChatRequest(BaseModel):
+    character_name: str
     question: str
 
 
@@ -24,7 +25,7 @@ def chat(data: ChatRequest):
             detail="Please select a character first."
         )
 
-    answer = rag.ask(character, data.question)
+    answer = rag.ask(data.character_name, data.question)
 
     return {
         "status_code": 200,

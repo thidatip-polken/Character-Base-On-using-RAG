@@ -12,7 +12,6 @@ router = APIRouter(
 class LoginRequest(BaseModel):
     username: str
 
-
 @router.post("")
 def login(data: LoginRequest):
 
