@@ -12,16 +12,14 @@ app = FastAPI()
 
 app.add_middleware(
     TrustedHostMiddleware,
-    allowed_hosts=[
-        "localhost",
-        "127.0.0.1",
-    ],
+    allowed_hosts=["*"],
 )
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",
+    "http://localhost:5173",
+    "https://thidatip-polken.github.io",
     ],
     allow_credentials=True,
     allow_methods=["*"],
