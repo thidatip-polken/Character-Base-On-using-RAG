@@ -1,7 +1,10 @@
+# =========================
 # Python
+# =========================
 __pycache__/
 *.py[cod]
 *.pyo
+.pytest_cache/
 
 # Virtual Environment
 .venv/
@@ -9,16 +12,36 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# =========================
+# React / Node
+# =========================
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.*
+
+# =========================
 # VS Code
+# =========================
 .vscode/
 
-# ChromaDB
+# =========================
+# Vector Database
+# =========================
 chroma_*/
 
-
-# Ignore files inside dataset folders
+# =========================
+# Dataset
+# =========================
 data/*
 !data/.gitkeep
 
 dialogues/*
-!dialogues/.gitkeep
+!dialogues/.gitkeeps
